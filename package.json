@@ -1,0 +1,24 @@
+{
+  "name": "obsidian-cclk-flashcards",
+  "version": "1.0.0",
+  "description": "Spaced repetition flashcards for CCLK learning",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "NODE_ENV=production node esbuild.config.mjs",
+    "lint": "eslint src --ext .ts,.tsx",
+    "deploy": "npm run build && mkdir -p \"/Users/uspro/Documents/Obsidian Vault/.obsidian/plugins/cclk-flashcards\" && cp main.js manifest.json styles.css \"/Users/uspro/Documents/Obsidian Vault/.obsidian/plugins/cclk-flashcards/\" && cp -r cclk-cards \"/Users/uspro/Documents/Obsidian Vault/\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "esbuild": "^0.25.5",
+    "obsidian": "latest",
+    "typescript": "^5.4.0"
+  }
+}

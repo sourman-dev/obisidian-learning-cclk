@@ -1,0 +1,9 @@
+{
+  "id": "cclk-flashcards",
+  "name": "CCLK Flashcards",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Spaced repetition flashcards for Châm cứu lục khí",
+  "author": "User",
+  "isDesktopOnly": false
+}
