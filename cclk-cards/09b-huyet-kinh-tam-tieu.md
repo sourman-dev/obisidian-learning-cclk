@@ -1,74 +1,10 @@
 ---
-topic: Huyệt vị Kinh Tâm Bào và Tam Tiêu
+topic: Huyệt Kinh Tam Tiêu
 chapter: 9
-tags: [huyet-vi, kinh-tam-bao, kinh-tam-tieu]
+tags: [huyet-vi, kinh-tam-tieu, thu-thieu-duong]
 ---
 
-# Huyệt vị Kinh Tâm Bào và Tam Tiêu
-
-## KINH THỦ QUYẾT ÂM TÂM BÀO
-
-## Trung Xung - Vị trí
-Q::: Huyệt Trung Xung nằm ở đâu?
-A::: Điểm chính giữa đầu ngón giữa.
-
-## Trung Xung - Phân loại
-Q::: Huyệt Trung Xung thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
-
-## Trung Xung - Ngũ hành
-Q::: Huyệt Trung Xung mang hành gì?
-A::: Hành Mộc.
-
-## Lao Cung - Vị trí
-Q::: Huyệt Lao Cung nằm ở đâu?
-A::: Gan bàn tay, khi co tay nắm lại, huyệt nằm giữa đầu móng tay ngón 3 và 4 chỉ vào bàn tay.
-
-## Lao Cung - Phân loại
-Q::: Huyệt Lao Cung thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
-
-## Lao Cung - Ngũ hành
-Q::: Huyệt Lao Cung mang hành gì?
-A::: Hành Hỏa.
-
-## Đại Lăng - Vị trí
-Q::: Huyệt Đại Lăng nằm ở đâu?
-A::: Giữa nếp gấp cổ tay, giữa gân cơ gan tay lớn và bé.
-
-## Đại Lăng - Phân loại
-Q::: Huyệt Đại Lăng thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Du và Nguyên (huyệt thứ ba, cũng là huyệt nguyên).
-
-## Đại Lăng - Ngũ hành
-Q::: Huyệt Đại Lăng mang hành gì?
-A::: Hành Thổ.
-
-## Giản Sử - Vị trí
-Q::: Huyệt Giản Sử nằm ở đâu?
-A::: Nếp gấp cổ tay thẳng lên 3 thốn, giữa khe gân cơ gan tay lớn và bé.
-
-## Giản Sử - Phân loại
-Q::: Huyệt Giản Sử thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
-
-## Giản Sử - Ngũ hành
-Q::: Huyệt Giản Sử mang hành gì?
-A::: Hành Kim.
-
-## Khúc Trạch - Vị trí
-Q::: Huyệt Khúc Trạch nằm ở đâu?
-A::: Trên nếp gấp khuỷu tay, bờ trong gân cơ nhị đầu.
-
-## Khúc Trạch - Phân loại
-Q::: Huyệt Khúc Trạch thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Khúc Trạch - Ngũ hành
-Q::: Huyệt Khúc Trạch mang hành gì?
-A::: Hành Thủy.
-
-## KINH THỦ THIẾU DƯƠNG TAM TIÊU
+# Huyệt Kinh Thủ Thiếu Dương Tam Tiêu
 
 ## Quan Xung - Vị trí
 Q::: Huyệt Quan Xung nằm ở đâu?
@@ -141,22 +77,6 @@ A::: Huyệt Hợp (huyệt thứ năm của kinh).
 ## Thiên Tĩnh - Ngũ hành
 Q::: Huyệt Thiên Tĩnh mang hành gì?
 A::: Hành Thổ.
-
-## Matching: Ngũ du huyệt Kinh Tâm Bào
-MATCH::
-- Trung Xung | Tĩnh
-- Lao Cung | Vinh
-- Đại Lăng | Du + Nguyên
-- Giản Sử | Kinh
-- Khúc Trạch | Hợp
-
-## Matching: Ngũ hành Kinh Tâm Bào
-MATCH::
-- Trung Xung | Mộc
-- Lao Cung | Hỏa
-- Đại Lăng | Thổ
-- Giản Sử | Kim
-- Khúc Trạch | Thủy
 
 ## Matching: Ngũ du huyệt Kinh Tam Tiêu
 MATCH::

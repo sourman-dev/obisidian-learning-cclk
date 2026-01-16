@@ -16,12 +16,18 @@ const CARD_FILES = [
   "05-bo-mach-bo-huyet.md",
   "06-huyet-ngu-du.md",
   "07-nguyen-ly-chua-benh.md",
-  "08-huyet-kinh-phe-dai-truong.md",
-  "09-huyet-kinh-tam-bao-tam-tieu.md",
-  "10-huyet-kinh-tam-tieu-truong.md",
-  "11-huyet-kinh-ty-vi.md",
-  "12-huyet-kinh-can-dom.md",
-  "13-huyet-kinh-than-bang-quang.md"
+  "08a-huyet-kinh-phe.md",
+  "08b-huyet-kinh-dai-truong.md",
+  "09a-huyet-kinh-tam-bao.md",
+  "09b-huyet-kinh-tam-tieu.md",
+  "10a-huyet-kinh-tam.md",
+  "10b-huyet-kinh-tieu-truong.md",
+  "11a-huyet-kinh-ty.md",
+  "11b-huyet-kinh-vi.md",
+  "12a-huyet-kinh-can.md",
+  "12b-huyet-kinh-dom.md",
+  "13a-huyet-kinh-than.md",
+  "13b-huyet-kinh-bang-quang.md"
 ];
 
 export class CardsDownloader {
