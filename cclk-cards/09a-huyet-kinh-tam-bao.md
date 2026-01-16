@@ -2,71 +2,59 @@
 topic: Huyệt Kinh Tâm Bào
 chapter: 9
 tags: [huyet-vi, kinh-tam-bao, thu-quyet-am]
+priority: 2
 ---
 
 # Huyệt Kinh Thủ Quyết Âm Tâm Bào
 
-## Trung Xung - Vị trí
-Q::: Huyệt Trung Xung nằm ở đâu?
-A::: Điểm chính giữa đầu ngón giữa.
+> **Quy luật:** Tâm Bào = Hỏa → Bổ = Hỏa. Kinh Âm có 5 huyệt.
+> **Thứ tự hành:** Thổ → Kim → Thủy → Thử → Mộc
 
-## Trung Xung - Phân loại
-Q::: Huyệt Trung Xung thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Trung Xung - Loại
+Q:: Trung Xung là huyệt gì?
+A:: Tĩnh
 
-## Trung Xung - Ngũ hành
-Q::: Huyệt Trung Xung mang hành gì?
-A::: Hành Mộc.
+## Trung Xung - Hành
+Q:: Trung Xung mang hành gì?
+A:: Thổ
 
-## Lao Cung - Vị trí
-Q::: Huyệt Lao Cung nằm ở đâu?
-A::: Gan bàn tay, khi co tay nắm lại, huyệt nằm giữa đầu móng tay ngón 3 và 4 chỉ vào bàn tay.
+## Trung Xung - Ngón
+Q:: Trung Xung ở ngón nào?
+A:: Ngón giữa
 
-## Lao Cung - Phân loại
-Q::: Huyệt Lao Cung thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Lao Cung - Loại
+Q:: Lao Cung là huyệt gì?
+A:: Vinh
 
-## Lao Cung - Ngũ hành
-Q::: Huyệt Lao Cung mang hành gì?
-A::: Hành Hỏa.
+## Lao Cung - Hành
+Q:: Lao Cung mang hành gì?
+A:: Kim
 
-## Đại Lăng - Vị trí
-Q::: Huyệt Đại Lăng nằm ở đâu?
-A::: Giữa nếp gấp cổ tay, giữa gân cơ gan tay lớn và bé.
+## Đại Lăng - Loại
+Q:: Đại Lăng là huyệt gì?
+A:: Du + Nguyên
 
-## Đại Lăng - Phân loại
-Q::: Huyệt Đại Lăng thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Du và Nguyên (huyệt thứ ba, cũng là huyệt nguyên).
+## Đại Lăng - Hành
+Q:: Đại Lăng mang hành gì?
+A:: Thủy
 
-## Đại Lăng - Ngũ hành
-Q::: Huyệt Đại Lăng mang hành gì?
-A::: Hành Thổ.
+## Giản Sử - Loại
+Q:: Giản Sử là huyệt gì?
+A:: Kinh
 
-## Giản Sử - Vị trí
-Q::: Huyệt Giản Sử nằm ở đâu?
-A::: Nếp gấp cổ tay thẳng lên 3 thốn, giữa khe gân cơ gan tay lớn và bé.
+## Giản Sử - Hành
+Q:: Giản Sử mang hành gì?
+A:: Thử
 
-## Giản Sử - Phân loại
-Q::: Huyệt Giản Sử thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Khúc Trạch - Loại
+Q:: Khúc Trạch là huyệt gì?
+A:: Hợp
 
-## Giản Sử - Ngũ hành
-Q::: Huyệt Giản Sử mang hành gì?
-A::: Hành Kim.
+## Khúc Trạch - Hành
+Q:: Khúc Trạch mang hành gì?
+A:: Mộc
 
-## Khúc Trạch - Vị trí
-Q::: Huyệt Khúc Trạch nằm ở đâu?
-A::: Trên nếp gấp khuỷu tay, bờ trong gân cơ nhị đầu.
-
-## Khúc Trạch - Phân loại
-Q::: Huyệt Khúc Trạch thuộc loại huyệt gì trên Kinh Tâm Bào?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Khúc Trạch - Ngũ hành
-Q::: Huyệt Khúc Trạch mang hành gì?
-A::: Hành Thủy.
-
-## Matching: Ngũ du huyệt Kinh Tâm Bào
+## Matching: Huyệt → Loại
 MATCH::
 - Trung Xung | Tĩnh
 - Lao Cung | Vinh
@@ -74,10 +62,10 @@ MATCH::
 - Giản Sử | Kinh
 - Khúc Trạch | Hợp
 
-## Matching: Ngũ hành Kinh Tâm Bào
+## Matching: Huyệt → Hành
 MATCH::
-- Trung Xung | Mộc
-- Lao Cung | Hỏa
-- Đại Lăng | Thổ
-- Giản Sử | Kim
-- Khúc Trạch | Thủy
+- Trung Xung | Thổ
+- Lao Cung | Kim
+- Đại Lăng | Thủy
+- Giản Sử | Thử
+- Khúc Trạch | Mộc

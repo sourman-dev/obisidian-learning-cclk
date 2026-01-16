@@ -2,71 +2,59 @@
 topic: Huyệt Kinh Can
 chapter: 12
 tags: [huyet-vi, kinh-can, tuc-quyet-am]
+priority: 2
 ---
 
 # Huyệt Kinh Túc Quyết Âm Can
 
-## Đại Đôn - Vị trí
-Q::: Huyệt Đại Đôn nằm ở đâu?
-A::: Cách bờ ngoài gốc móng chân ngón cái 0,1 thốn.
+> **Quy luật:** Can = Mộc → Bổ = Mộc. Kinh Âm có 5 huyệt.
+> **Thứ tự hành:** Hỏa → Thổ → Kim → Thủy → Thử
 
-## Đại Đôn - Phân loại
-Q::: Huyệt Đại Đôn thuộc loại huyệt gì trên Kinh Can?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Đại Đôn - Loại
+Q:: Đại Đôn là huyệt gì?
+A:: Tĩnh
 
-## Đại Đôn - Ngũ hành
-Q::: Huyệt Đại Đôn mang hành gì?
-A::: Hành Mộc.
+## Đại Đôn - Hành
+Q:: Đại Đôn mang hành gì?
+A:: Hỏa
 
-## Hành Gian - Vị trí
-Q::: Huyệt Hành Gian nằm ở đâu?
-A::: Kẽ ngón chân 1 và 2 đo lên 0,5 thốn về phía mu chân.
+## Đại Đôn - Ngón
+Q:: Đại Đôn ở ngón nào?
+A:: Ngón cái chân
 
-## Hành Gian - Phân loại
-Q::: Huyệt Hành Gian thuộc loại huyệt gì trên Kinh Can?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Hành Gian - Loại
+Q:: Hành Gian là huyệt gì?
+A:: Vinh
 
-## Hành Gian - Ngũ hành
-Q::: Huyệt Hành Gian mang hành gì?
-A::: Hành Hỏa.
+## Hành Gian - Hành
+Q:: Hành Gian mang hành gì?
+A:: Thổ
 
-## Thái Xung - Vị trí
-Q::: Huyệt Thái Xung nằm ở đâu?
-A::: Giữa kẽ ngón chân 1 và 2 đo lên 2 thốn về phía mu chân.
+## Thái Xung - Loại
+Q:: Thái Xung là huyệt gì?
+A:: Du + Nguyên
 
-## Thái Xung - Phân loại
-Q::: Huyệt Thái Xung thuộc loại huyệt gì trên Kinh Can?
-A::: Huyệt Du và Nguyên (huyệt thứ ba, cũng là huyệt nguyên).
+## Thái Xung - Hành
+Q:: Thái Xung mang hành gì?
+A:: Kim
 
-## Thái Xung - Ngũ hành
-Q::: Huyệt Thái Xung mang hành gì?
-A::: Hành Thổ.
+## Trung Phong - Loại
+Q:: Trung Phong là huyệt gì?
+A:: Kinh
 
-## Trung Phong - Vị trí
-Q::: Huyệt Trung Phong nằm ở đâu?
-A::: Bờ dưới mắt cá trong khoảng 1 thốn, điểm lõm giữa cơ dài ngón cái và cơ chày trước.
+## Trung Phong - Hành
+Q:: Trung Phong mang hành gì?
+A:: Thủy
 
-## Trung Phong - Phân loại
-Q::: Huyệt Trung Phong thuộc loại huyệt gì trên Kinh Can?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Khúc Tuyền - Loại
+Q:: Khúc Tuyền là huyệt gì?
+A:: Hợp
 
-## Trung Phong - Ngũ hành
-Q::: Huyệt Trung Phong mang hành gì?
-A::: Hành Kim.
+## Khúc Tuyền - Hành
+Q:: Khúc Tuyền mang hành gì?
+A:: Thử
 
-## Khúc Tuyền - Vị trí
-Q::: Huyệt Khúc Tuyền nằm ở đâu?
-A::: Khi gấp chân lại, huyệt nằm phía trong xương đùi đầu nếp gấp đầu gối.
-
-## Khúc Tuyền - Phân loại
-Q::: Huyệt Khúc Tuyền thuộc loại huyệt gì trên Kinh Can?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Khúc Tuyền - Ngũ hành
-Q::: Huyệt Khúc Tuyền mang hành gì?
-A::: Hành Thủy.
-
-## Matching: Ngũ du huyệt Kinh Can
+## Matching: Huyệt → Loại
 MATCH::
 - Đại Đôn | Tĩnh
 - Hành Gian | Vinh
@@ -74,10 +62,10 @@ MATCH::
 - Trung Phong | Kinh
 - Khúc Tuyền | Hợp
 
-## Matching: Ngũ hành Kinh Can
+## Matching: Huyệt → Hành
 MATCH::
-- Đại Đôn | Mộc
-- Hành Gian | Hỏa
-- Thái Xung | Thổ
-- Trung Phong | Kim
-- Khúc Tuyền | Thủy
+- Đại Đôn | Hỏa
+- Hành Gian | Thổ
+- Thái Xung | Kim
+- Trung Phong | Thủy
+- Khúc Tuyền | Thử

@@ -2,71 +2,59 @@
 topic: Huyệt Kinh Tâm
 chapter: 10
 tags: [huyet-vi, kinh-tam, thu-thieu-am]
+priority: 2
 ---
 
 # Huyệt Kinh Thủ Thiếu Âm Tâm
 
-## Thiếu Xung - Vị trí
-Q::: Huyệt Thiếu Xung nằm ở đâu?
-A::: Ngón út phía xương quay, cách góc móng tay 0,1 thốn.
+> **Quy luật:** Tâm = Thử → Bổ = Thử. Kinh Âm có 5 huyệt.
+> **Thứ tự hành:** Mộc → Hỏa → Thổ → Kim → Thủy
 
-## Thiếu Xung - Phân loại
-Q::: Huyệt Thiếu Xung thuộc loại huyệt gì trên Kinh Tâm?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Thiếu Xung - Loại
+Q:: Thiếu Xung là huyệt gì?
+A:: Tĩnh
 
-## Thiếu Xung - Ngũ hành
-Q::: Huyệt Thiếu Xung mang hành gì?
-A::: Hành Mộc.
+## Thiếu Xung - Hành
+Q:: Thiếu Xung mang hành gì?
+A:: Mộc
 
-## Thiếu Phủ - Vị trí
-Q::: Huyệt Thiếu Phủ nằm ở đâu?
-A::: Giữa xương bàn tay 4 và 5, khi nắm tay, huyệt ở giữa ngón út và ngón nhẫn hướng vào lòng bàn tay.
+## Thiếu Xung - Ngón
+Q:: Thiếu Xung ở ngón nào?
+A:: Ngón út
 
-## Thiếu Phủ - Phân loại
-Q::: Huyệt Thiếu Phủ thuộc loại huyệt gì trên Kinh Tâm?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Thiếu Phủ - Loại
+Q:: Thiếu Phủ là huyệt gì?
+A:: Vinh
 
-## Thiếu Phủ - Ngũ hành
-Q::: Huyệt Thiếu Phủ mang hành gì?
-A::: Hành Hỏa.
+## Thiếu Phủ - Hành
+Q:: Thiếu Phủ mang hành gì?
+A:: Hỏa
 
-## Thần Môn - Vị trí
-Q::: Huyệt Thần Môn nằm ở đâu?
-A::: Phía xương trụ, trên lằn cổ tay, chỗ lõm sát bờ ngoài gân cơ trụ trước.
+## Thần Môn - Loại
+Q:: Thần Môn là huyệt gì?
+A:: Du + Nguyên
 
-## Thần Môn - Phân loại
-Q::: Huyệt Thần Môn thuộc loại huyệt gì trên Kinh Tâm?
-A::: Huyệt Du và Nguyên (huyệt thứ ba, cũng là huyệt nguyên).
+## Thần Môn - Hành
+Q:: Thần Môn mang hành gì?
+A:: Thổ
 
-## Thần Môn - Ngũ hành
-Q::: Huyệt Thần Môn mang hành gì?
-A::: Hành Thổ.
+## Linh Đạo - Loại
+Q:: Linh Đạo là huyệt gì?
+A:: Kinh
 
-## Linh Đạo - Vị trí
-Q::: Huyệt Linh Đạo nằm ở đâu?
-A::: Mặt trước trong cẳng tay, cách nếp gấp cổ tay 1,5 thốn.
+## Linh Đạo - Hành
+Q:: Linh Đạo mang hành gì?
+A:: Kim
 
-## Linh Đạo - Phân loại
-Q::: Huyệt Linh Đạo thuộc loại huyệt gì trên Kinh Tâm?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Thiếu Hải - Loại
+Q:: Thiếu Hải là huyệt gì?
+A:: Hợp
 
-## Linh Đạo - Ngũ hành
-Q::: Huyệt Linh Đạo mang hành gì?
-A::: Hành Kim.
+## Thiếu Hải - Hành
+Q:: Thiếu Hải mang hành gì?
+A:: Thủy
 
-## Thiếu Hải - Vị trí
-Q::: Huyệt Thiếu Hải nằm ở đâu?
-A::: Co tay, huyệt nằm giữa cuối đầu nếp gấp khuỷu tay và mỏm trên lồi cầu.
-
-## Thiếu Hải - Phân loại
-Q::: Huyệt Thiếu Hải thuộc loại huyệt gì trên Kinh Tâm?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Thiếu Hải - Ngũ hành
-Q::: Huyệt Thiếu Hải mang hành gì?
-A::: Hành Thủy.
-
-## Matching: Ngũ du huyệt Kinh Tâm
+## Matching: Huyệt → Loại
 MATCH::
 - Thiếu Xung | Tĩnh
 - Thiếu Phủ | Vinh
@@ -74,7 +62,7 @@ MATCH::
 - Linh Đạo | Kinh
 - Thiếu Hải | Hợp
 
-## Matching: Ngũ hành Kinh Tâm
+## Matching: Huyệt → Hành
 MATCH::
 - Thiếu Xung | Mộc
 - Thiếu Phủ | Hỏa

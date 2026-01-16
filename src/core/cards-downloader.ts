@@ -9,6 +9,7 @@ import { App, TFile, TFolder, Notice, requestUrl } from "obsidian";
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/sourman-dev/obisidian-learning-cclk/main/cclk-cards";
 
 const CARD_FILES = [
+  "00-quy-luat-nen-tang.md",
   "01-su-hinh-thanh-luc-khi.md",
   "02-tuong-sinh-tuong-khac-phan-sinh.md",
   "03-tang-phu-12.md",

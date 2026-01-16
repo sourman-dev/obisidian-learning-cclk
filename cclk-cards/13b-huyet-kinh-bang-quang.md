@@ -2,83 +2,67 @@
 topic: Huyệt Kinh Bàng Quang
 chapter: 13
 tags: [huyet-vi, kinh-bang-quang, tuc-thai-duong]
+priority: 2
 ---
 
 # Huyệt Kinh Túc Thái Dương Bàng Quang
 
-## Chí Âm - Vị trí
-Q::: Huyệt Chí Âm nằm ở đâu?
-A::: Cạnh ngoài gốc móng ngón út chân, cách gốc móng 0,1 thốn.
+> **Quy luật:** Bàng Quang = Thủy → Bổ = Kim (mẹ của Thủy). Kinh Dương có 6 huyệt.
+> **Thứ tự hành:** Thủy → Thử → Mộc → Hỏa → Thổ → Kim
 
-## Chí Âm - Phân loại
-Q::: Huyệt Chí Âm thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Chí Âm - Loại
+Q:: Chí Âm là huyệt gì?
+A:: Tĩnh
 
-## Chí Âm - Ngũ hành
-Q::: Huyệt Chí Âm mang hành gì?
-A::: Hành Kim.
+## Chí Âm - Hành
+Q:: Chí Âm mang hành gì?
+A:: Thủy
 
-## Thông Cốc - Vị trí
-Q::: Huyệt Thông Cốc (Bàng Quang) nằm ở đâu?
-A::: Chỗ lõm phía trước khớp bàn và ngón út chân.
+## Chí Âm - Ngón
+Q:: Chí Âm ở ngón nào?
+A:: Ngón út chân
 
-## Thông Cốc - Phân loại
-Q::: Huyệt Thông Cốc thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Thông Cốc - Loại
+Q:: Thông Cốc là huyệt gì?
+A:: Vinh
 
-## Thông Cốc - Ngũ hành
-Q::: Huyệt Thông Cốc mang hành gì?
-A::: Hành Thủy.
+## Thông Cốc - Hành
+Q:: Thông Cốc mang hành gì?
+A:: Thử
 
-## Thúc Cốt - Vị trí
-Q::: Huyệt Thúc Cốt nằm ở đâu?
-A::: Chỗ lõm cạnh ngoài, sau đầu nhỏ xương bàn chân nối với ngón 5.
+## Thúc Cốt - Loại
+Q:: Thúc Cốt là huyệt gì?
+A:: Du
 
-## Thúc Cốt - Phân loại
-Q::: Huyệt Thúc Cốt thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Du (huyệt thứ ba của kinh).
+## Thúc Cốt - Hành
+Q:: Thúc Cốt mang hành gì?
+A:: Mộc
 
-## Thúc Cốt - Ngũ hành
-Q::: Huyệt Thúc Cốt mang hành gì?
-A::: Hành Mộc.
+## Kinh Cốt - Loại
+Q:: Kinh Cốt là huyệt gì?
+A:: Nguyên
 
-## Kinh Cốt - Vị trí
-Q::: Huyệt Kinh Cốt (Bàng Quang) nằm ở đâu?
-A::: Cạnh ngoài bàn chân, phía dưới đầu mẩu xương to (đầu trong xương bàn ngón út).
+## Kinh Cốt - Hành
+Q:: Kinh Cốt mang hành gì?
+A:: Hỏa
 
-## Kinh Cốt - Phân loại
-Q::: Huyệt Kinh Cốt thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Nguyên (huyệt nguyên của kinh).
+## Côn Lôn - Loại
+Q:: Côn Lôn là huyệt gì?
+A:: Kinh
 
-## Kinh Cốt - Ngũ hành
-Q::: Huyệt Kinh Cốt mang hành gì?
-A::: Hành Hỏa.
+## Côn Lôn - Hành
+Q:: Côn Lôn mang hành gì?
+A:: Thổ
 
-## Côn Lôn - Vị trí
-Q::: Huyệt Côn Lôn nằm ở đâu?
-A::: Phía sau mắt cá ngoài 0,5 thốn, giữa mắt cá và gân gót.
+## Ủy Trung - Loại
+Q:: Ủy Trung là huyệt gì?
+A:: Hợp
 
-## Côn Lôn - Phân loại
-Q::: Huyệt Côn Lôn thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Ủy Trung - Hành
+Q:: Ủy Trung mang hành gì?
+A:: Kim
 
-## Côn Lôn - Ngũ hành
-Q::: Huyệt Côn Lôn mang hành gì?
-A::: Hành Hỏa.
-
-## Ủy Trung - Vị trí
-Q::: Huyệt Ủy Trung nằm ở đâu?
-A::: Giữa nếp gấp sau khoeo chân.
-
-## Ủy Trung - Phân loại
-Q::: Huyệt Ủy Trung thuộc loại huyệt gì trên Kinh Bàng Quang?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Ủy Trung - Ngũ hành
-Q::: Huyệt Ủy Trung mang hành gì?
-A::: Hành Thổ.
-
-## Matching: Ngũ du huyệt Kinh Bàng Quang
+## Matching: Huyệt → Loại
 MATCH::
 - Chí Âm | Tĩnh
 - Thông Cốc | Vinh
@@ -87,11 +71,11 @@ MATCH::
 - Côn Lôn | Kinh
 - Ủy Trung | Hợp
 
-## Matching: Ngũ hành Kinh Bàng Quang
+## Matching: Huyệt → Hành
 MATCH::
-- Chí Âm | Kim
-- Thông Cốc | Thủy
+- Chí Âm | Thủy
+- Thông Cốc | Thử
 - Thúc Cốt | Mộc
 - Kinh Cốt | Hỏa
-- Côn Lôn | Hỏa
-- Ủy Trung | Thổ
+- Côn Lôn | Thổ
+- Ủy Trung | Kim

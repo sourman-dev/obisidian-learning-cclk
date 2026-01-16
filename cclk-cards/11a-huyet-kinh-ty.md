@@ -2,71 +2,59 @@
 topic: Huyệt Kinh Tỳ
 chapter: 11
 tags: [huyet-vi, kinh-ty, tuc-thai-am]
+priority: 2
 ---
 
 # Huyệt Kinh Túc Thái Âm Tỳ
 
-## Ẩn Bạch - Vị trí
-Q::: Huyệt Ẩn Bạch nằm ở đâu?
-A::: Góc trong ngón chân cái, cách móng chân 0,1 thốn.
+> **Quy luật:** Tỳ = Thổ → Bổ = Thổ. Kinh Âm có 5 huyệt.
+> **Thứ tự hành:** Kim → Thủy → Thử → Mộc → Hỏa
 
-## Ẩn Bạch - Phân loại
-Q::: Huyệt Ẩn Bạch thuộc loại huyệt gì trên Kinh Tỳ?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Ẩn Bạch - Loại
+Q:: Ẩn Bạch là huyệt gì?
+A:: Tĩnh
 
-## Ẩn Bạch - Ngũ hành
-Q::: Huyệt Ẩn Bạch mang hành gì?
-A::: Hành Mộc.
+## Ẩn Bạch - Hành
+Q:: Ẩn Bạch mang hành gì?
+A:: Kim
 
-## Đại Đô - Vị trí
-Q::: Huyệt Đại Đô nằm ở đâu?
-A::: Bờ trong xương ngón cái, trên đường tiếp giáp lằn da gan bàn chân dưới chỏm xương bàn chân.
+## Ẩn Bạch - Ngón
+Q:: Ẩn Bạch ở ngón nào?
+A:: Ngón cái chân
 
-## Đại Đô - Phân loại
-Q::: Huyệt Đại Đô thuộc loại huyệt gì trên Kinh Tỳ?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Đại Đô - Loại
+Q:: Đại Đô là huyệt gì?
+A:: Vinh
 
-## Đại Đô - Ngũ hành
-Q::: Huyệt Đại Đô mang hành gì?
-A::: Hành Hỏa.
+## Đại Đô - Hành
+Q:: Đại Đô mang hành gì?
+A:: Thủy
 
-## Thái Bạch - Vị trí
-Q::: Huyệt Thái Bạch nằm ở đâu?
-A::: Chỗ lõm bờ trong bàn chân, phía sau và dưới đầu xương bàn chân 1.
+## Thái Bạch - Loại
+Q:: Thái Bạch là huyệt gì?
+A:: Du + Nguyên
 
-## Thái Bạch - Phân loại
-Q::: Huyệt Thái Bạch thuộc loại huyệt gì trên Kinh Tỳ?
-A::: Huyệt Du và Nguyên (huyệt thứ ba, cũng là huyệt nguyên).
+## Thái Bạch - Hành
+Q:: Thái Bạch mang hành gì?
+A:: Thử
 
-## Thái Bạch - Ngũ hành
-Q::: Huyệt Thái Bạch mang hành gì?
-A::: Hành Thổ.
+## Thương Khâu - Loại
+Q:: Thương Khâu là huyệt gì?
+A:: Kinh
 
-## Thương Khâu - Vị trí
-Q::: Huyệt Thương Khâu nằm ở đâu?
-A::: Chỗ lõm phía trước mắt cá chân trong, giữa gân cơ cẳng chân sau và khớp sên-thuyền.
+## Thương Khâu - Hành
+Q:: Thương Khâu mang hành gì?
+A:: Mộc
 
-## Thương Khâu - Phân loại
-Q::: Huyệt Thương Khâu thuộc loại huyệt gì trên Kinh Tỳ?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Âm Lăng Tuyền - Loại
+Q:: Âm Lăng Tuyền là huyệt gì?
+A:: Hợp
 
-## Thương Khâu - Ngũ hành
-Q::: Huyệt Thương Khâu mang hành gì?
-A::: Hành Kim.
+## Âm Lăng Tuyền - Hành
+Q:: Âm Lăng Tuyền mang hành gì?
+A:: Hỏa
 
-## Âm Lăng Tuyền - Vị trí
-Q::: Huyệt Âm Lăng Tuyền nằm ở đâu?
-A::: Chỗ lõm bờ sau trong đầu trên xương chày, cách nếp gấp đầu gối 2,5 thốn.
-
-## Âm Lăng Tuyền - Phân loại
-Q::: Huyệt Âm Lăng Tuyền thuộc loại huyệt gì trên Kinh Tỳ?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Âm Lăng Tuyền - Ngũ hành
-Q::: Huyệt Âm Lăng Tuyền mang hành gì?
-A::: Hành Thủy.
-
-## Matching: Ngũ du huyệt Kinh Tỳ
+## Matching: Huyệt → Loại
 MATCH::
 - Ẩn Bạch | Tĩnh
 - Đại Đô | Vinh
@@ -74,10 +62,10 @@ MATCH::
 - Thương Khâu | Kinh
 - Âm Lăng Tuyền | Hợp
 
-## Matching: Ngũ hành Kinh Tỳ
+## Matching: Huyệt → Hành
 MATCH::
-- Ẩn Bạch | Mộc
-- Đại Đô | Hỏa
-- Thái Bạch | Thổ
-- Thương Khâu | Kim
-- Âm Lăng Tuyền | Thủy
+- Ẩn Bạch | Kim
+- Đại Đô | Thủy
+- Thái Bạch | Thử
+- Thương Khâu | Mộc
+- Âm Lăng Tuyền | Hỏa

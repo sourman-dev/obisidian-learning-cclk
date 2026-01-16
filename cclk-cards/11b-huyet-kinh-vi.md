@@ -2,83 +2,67 @@
 topic: Huyệt Kinh Vị
 chapter: 11
 tags: [huyet-vi, kinh-vi, tuc-duong-minh]
+priority: 2
 ---
 
 # Huyệt Kinh Túc Dương Minh Vị
 
-## Lệ Đoài - Vị trí
-Q::: Huyệt Lệ Đoài nằm ở đâu?
-A::: Ngoài ngón chân thứ 2, cách góc móng chân 0,1 thốn.
+> **Quy luật:** Vị = Thổ → Bổ = Hỏa (mẹ của Thổ). Kinh Dương có 6 huyệt.
+> **Thứ tự hành:** Thổ → Kim → Thủy → Thử → Mộc → Hỏa
 
-## Lệ Đoài - Phân loại
-Q::: Huyệt Lệ Đoài thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Tĩnh (huyệt đầu tiên của kinh).
+## Lệ Đoài - Loại
+Q:: Lệ Đoài là huyệt gì?
+A:: Tĩnh
 
-## Lệ Đoài - Ngũ hành
-Q::: Huyệt Lệ Đoài mang hành gì?
-A::: Hành Kim.
+## Lệ Đoài - Hành
+Q:: Lệ Đoài mang hành gì?
+A:: Thổ
 
-## Nội Đình - Vị trí
-Q::: Huyệt Nội Đình nằm ở đâu?
-A::: Giữa kẽ ngón chân 2-3.
+## Lệ Đoài - Ngón
+Q:: Lệ Đoài ở ngón nào?
+A:: Ngón 2 chân
 
-## Nội Đình - Phân loại
-Q::: Huyệt Nội Đình thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Vinh (huyệt thứ hai của kinh).
+## Nội Đình - Loại
+Q:: Nội Đình là huyệt gì?
+A:: Vinh
 
-## Nội Đình - Ngũ hành
-Q::: Huyệt Nội Đình mang hành gì?
-A::: Hành Thủy.
+## Nội Đình - Hành
+Q:: Nội Đình mang hành gì?
+A:: Kim
 
-## Hãm Cốc - Vị trí
-Q::: Huyệt Hãm Cốc nằm ở đâu?
-A::: Giữa kẽ ngón chân 2-3, đo lên 2 thốn về phía mu chân.
+## Hãm Cốc - Loại
+Q:: Hãm Cốc là huyệt gì?
+A:: Du
 
-## Hãm Cốc - Phân loại
-Q::: Huyệt Hãm Cốc thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Du (huyệt thứ ba của kinh).
+## Hãm Cốc - Hành
+Q:: Hãm Cốc mang hành gì?
+A:: Thủy
 
-## Hãm Cốc - Ngũ hành
-Q::: Huyệt Hãm Cốc mang hành gì?
-A::: Hành Mộc.
+## Xung Dương - Loại
+Q:: Xung Dương là huyệt gì?
+A:: Nguyên
 
-## Xung Dương - Vị trí
-Q::: Huyệt Xung Dương nằm ở đâu?
-A::: Dưới huyệt Giải Khê 1,5 thốn, nơi cao nhất mu bàn chân có động mạch đập.
+## Xung Dương - Hành
+Q:: Xung Dương mang hành gì?
+A:: Thử
 
-## Xung Dương - Phân loại
-Q::: Huyệt Xung Dương thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Nguyên (huyệt nguyên của kinh).
+## Giải Khê - Loại
+Q:: Giải Khê là huyệt gì?
+A:: Kinh
 
-## Xung Dương - Ngũ hành
-Q::: Huyệt Xung Dương mang hành gì?
-A::: Hành Mộc.
+## Giải Khê - Hành
+Q:: Giải Khê mang hành gì?
+A:: Mộc
 
-## Giải Khê - Vị trí
-Q::: Huyệt Giải Khê nằm ở đâu?
-A::: Trên nếp gấp cổ chân giữa 2 gân cơ cẳng chân trước và gân cơ duỗi dài ngón cái.
+## Túc Tam Lý - Loại
+Q:: Túc Tam Lý là huyệt gì?
+A:: Hợp
 
-## Giải Khê - Phân loại
-Q::: Huyệt Giải Khê thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Kinh (huyệt thứ tư của kinh).
+## Túc Tam Lý - Hành
+Q:: Túc Tam Lý mang hành gì?
+A:: Hỏa
 
-## Giải Khê - Ngũ hành
-Q::: Huyệt Giải Khê mang hành gì?
-A::: Hành Hỏa.
-
-## Túc Tam Lý - Vị trí
-Q::: Huyệt Túc Tam Lý nằm ở đâu?
-A::: Dưới mắt gối ngoài 3 thốn, cách mào xương chày 1 khoát ngón tay.
-
-## Túc Tam Lý - Phân loại
-Q::: Huyệt Túc Tam Lý thuộc loại huyệt gì trên Kinh Vị?
-A::: Huyệt Hợp (huyệt thứ năm của kinh).
-
-## Túc Tam Lý - Ngũ hành
-Q::: Huyệt Túc Tam Lý mang hành gì?
-A::: Hành Thổ.
-
-## Matching: Ngũ du huyệt Kinh Vị
+## Matching: Huyệt → Loại
 MATCH::
 - Lệ Đoài | Tĩnh
 - Nội Đình | Vinh
@@ -87,11 +71,11 @@ MATCH::
 - Giải Khê | Kinh
 - Túc Tam Lý | Hợp
 
-## Matching: Ngũ hành Kinh Vị
+## Matching: Huyệt → Hành
 MATCH::
-- Lệ Đoài | Kim
-- Nội Đình | Thủy
-- Hãm Cốc | Mộc
-- Xung Dương | Mộc
-- Giải Khê | Hỏa
-- Túc Tam Lý | Thổ
+- Lệ Đoài | Thổ
+- Nội Đình | Kim
+- Hãm Cốc | Thủy
+- Xung Dương | Thử
+- Giải Khê | Mộc
+- Túc Tam Lý | Hỏa
