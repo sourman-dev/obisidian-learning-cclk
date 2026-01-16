@@ -66,5 +66,39 @@ export class CCLKSettingTab extends PluginSettingTab {
             await this.plugin.saveSettings();
           })
       );
+
+    // Cards download section
+    containerEl.createEl("h3", { text: "Quản lý Cards" });
+
+    new Setting(containerEl)
+      .setName("Tải cards mới")
+      .setDesc("Tải các file cards chưa có trong vault từ GitHub")
+      .addButton((btn) =>
+        btn
+          .setButtonText("Tải cards mới")
+          .onClick(async () => {
+            btn.setDisabled(true);
+            btn.setButtonText("Đang tải...");
+            await this.plugin.downloadCards(false);
+            btn.setDisabled(false);
+            btn.setButtonText("Tải cards mới");
+          })
+      );
+
+    new Setting(containerEl)
+      .setName("Cập nhật toàn bộ")
+      .setDesc("Tải lại tất cả cards từ GitHub (ghi đè file hiện có)")
+      .addButton((btn) =>
+        btn
+          .setButtonText("Cập nhật tất cả")
+          .setWarning()
+          .onClick(async () => {
+            btn.setDisabled(true);
+            btn.setButtonText("Đang cập nhật...");
+            await this.plugin.downloadCards(true);
+            btn.setDisabled(false);
+            btn.setButtonText("Cập nhật tất cả");
+          })
+      );
   }
 }

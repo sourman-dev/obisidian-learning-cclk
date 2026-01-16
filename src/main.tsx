@@ -23,9 +23,6 @@ export default class CCLKPlugin extends Plugin {
   async onload() {
     await this.loadSettings();
 
-    // Check and download cards if needed
-    await this.ensureCardsExist();
-
     // Register sidebar view
     this.registerView(
       VIEW_TYPE_CCLK,
@@ -77,12 +74,10 @@ export default class CCLKPlugin extends Plugin {
   }
 
   /**
-   * Check if cards exist, download from GitHub if not
+   * Download/update cards from GitHub (manual trigger from settings)
    */
-  async ensureCardsExist(): Promise<void> {
+  async downloadCards(forceUpdate = false): Promise<void> {
     const downloader = new CardsDownloader(this.app, this.settings.cardsFolder);
-    if (await downloader.needsDownload()) {
-      await downloader.downloadCards();
-    }
+    await downloader.downloadCards(forceUpdate);
   }
 }

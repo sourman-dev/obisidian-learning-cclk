@@ -4,7 +4,7 @@
  * Downloads flashcard content from GitHub if not exists in vault.
  */
 
-import { App, TFolder, Notice, requestUrl } from "obsidian";
+import { App, TFile, TFolder, Notice, requestUrl } from "obsidian";
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/sourman-dev/obisidian-learning-cclk/main/cclk-cards";
 
@@ -53,16 +53,19 @@ export class CardsDownloader {
   }
 
   /**
-   * Download all card files from GitHub
+   * Download card files from GitHub
+   * @param forceUpdate - If true, overwrite existing files
    */
-  async downloadCards(): Promise<void> {
-    const notice = new Notice("Đang tải flashcards từ GitHub...", 0);
+  async downloadCards(forceUpdate = false): Promise<void> {
+    const action = forceUpdate ? "cập nhật" : "tải";
+    const notice = new Notice(`Đang ${action} flashcards từ GitHub...`, 0);
 
     try {
       // Create folder if not exists
       await this.ensureFolder();
 
       let downloaded = 0;
+      let updated = 0;
       for (const fileName of CARD_FILES) {
         try {
           const url = `${GITHUB_RAW_BASE}/${fileName}`;
@@ -75,6 +78,9 @@ export class CardsDownloader {
             if (!existing) {
               await this.app.vault.create(filePath, response.text);
               downloaded++;
+            } else if (forceUpdate && existing instanceof TFile) {
+              await this.app.vault.modify(existing, response.text);
+              updated++;
             }
           }
         } catch (e) {
@@ -83,7 +89,11 @@ export class CardsDownloader {
       }
 
       notice.hide();
-      new Notice(`Đã tải ${downloaded} flashcard files thành công!`);
+      if (forceUpdate) {
+        new Notice(`Đã cập nhật ${updated} files, tải mới ${downloaded} files!`);
+      } else {
+        new Notice(`Đã tải ${downloaded} flashcard files thành công!`);
+      }
     } catch (error) {
       notice.hide();
       console.error("Failed to download cards:", error);
