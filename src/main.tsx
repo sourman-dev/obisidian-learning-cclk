@@ -1,6 +1,7 @@
 import { Plugin } from "obsidian";
 import { CCLKSidebarView, VIEW_TYPE_CCLK } from "./views/sidebar-view";
 import { CCLKSettingTab } from "./settings";
+import { CardsDownloader } from "./core/cards-downloader";
 
 export interface CCLKSettings {
   cardsFolder: string;
@@ -21,6 +22,9 @@ export default class CCLKPlugin extends Plugin {
 
   async onload() {
     await this.loadSettings();
+
+    // Check and download cards if needed
+    await this.ensureCardsExist();
 
     // Register sidebar view
     this.registerView(
@@ -70,5 +74,15 @@ export default class CCLKPlugin extends Plugin {
 
   async saveSettings() {
     await this.saveData(this.settings);
+  }
+
+  /**
+   * Check if cards exist, download from GitHub if not
+   */
+  async ensureCardsExist(): Promise<void> {
+    const downloader = new CardsDownloader(this.app, this.settings.cardsFolder);
+    if (await downloader.needsDownload()) {
+      await downloader.downloadCards();
+    }
   }
 }
