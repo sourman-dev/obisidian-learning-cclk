@@ -63,3 +63,30 @@ MATCH::
 - Túc Thiếu dương | Đởm
 - Thủ Thái dương | Tiểu Trường
 - Túc Thái dương | Bàng Quang
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Chiều vận hành Kinh Âm
+MCQ:: Các kinh âm vận hành theo chiều nào?
+- [ ] Từ tay vào thân rồi xuống chân
+- [x] Từ chân vào thân rồi ra tay
+- [ ] Từ đầu xuống chân
+- [ ] Từ thân ra tứ chi
+EXPLAIN:: Kinh ÂM: chân→thân→tay (hướng tâm rồi ly tâm). Kinh DƯƠNG: tay→thân→chân (ngược lại). Mẹo: "Âm lên Dương xuống"
+
+## MCQ 2 - Kinh Thiếu Âm
+MCQ:: Kinh Thiếu Âm đại diện cho tạng nào?
+- [ ] Can và Đởm
+- [ ] Tỳ và Vị
+- [x] Tâm và Thận
+- [ ] Phế và Đại Trường
+EXPLAIN:: Thiếu Âm = Tâm (Thủ) + Thận (Túc). Quyết Âm = Tâm Bào + Can. Thái Âm = Phế + Tỳ. Mẹo: "Thiếu-Tâm-Thận, Quyết-Bào-Can, Thái-Phế-Tỳ"
+
+## MCQ 3 - Khí Huyết Kinh Mạch
+MCQ:: Kinh dương có đặc điểm gì về khí huyết?
+- [ ] Khí nhiều hơn huyết
+- [x] Huyết nhiều hơn khí
+- [ ] Khí huyết bằng nhau
+- [ ] Không có huyết
+EXPLAIN:: Kinh ÂM: khí nhiều hơn huyết, vận hành theo Tương Sinh. Kinh DƯƠNG: huyết nhiều hơn khí, vận hành theo Phản Sinh. Mẹo: "Âm-Khí, Dương-Huyết"

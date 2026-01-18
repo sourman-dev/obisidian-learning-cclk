@@ -50,3 +50,31 @@ MATCH::
 - Thử khí | Thiếu Âm
 - Phong khí | Quyết Âm
 - Thấp khí | Thái Âm
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Nguồn gốc Lục Khí
+MCQ:: Lục khí sinh ra từ đâu theo quá trình hình thành?
+- [ ] Từ Ngũ hành
+- [ ] Từ Âm nghi
+- [x] Từ Dương nghi (Bát quái)
+- [ ] Từ Thái cực trực tiếp
+EXPLAIN:: Vô cực → Thái cực → Lưỡng nghi → Tứ tượng → Bát quái. Từ Bát quái: DƯƠNG sinh LỤC KHÍ, Âm sinh Ngũ hành.
+
+## MCQ 2 - Hành Thử
+MCQ:: Thử khí ứng với kinh nào?
+- [ ] Thái Dương
+- [ ] Dương Minh
+- [x] Thiếu Âm
+- [ ] Quyết Âm
+EXPLAIN:: Thử khí (ấm) = hành Thử = kinh Thiếu Âm. Mẹo: "Thử" âm giống "Thiếu" → Thiếu Âm.
+
+## MCQ 3 - Ý nghĩa Lục Khí
+MCQ:: Trong CCLK, "lục khí" dùng để chỉ điều gì?
+- [ ] 6 loại khí trên trời
+- [x] Sự khí hóa của tạng phủ trong cơ thể
+- [ ] 6 loại bệnh tật
+- [ ] 6 phương pháp châm
+EXPLAIN:: Đây là điểm quan trọng! CCLK không nói về thời tiết bên ngoài, mà về SỰ KHÍ HÓA của tạng phủ bên trong cơ thể.
+

@@ -23,6 +23,10 @@ const MCQ_OPTION_PATTERN = /^-\s*\[(x| )\]\s*(.+)$/gm;
 const CORRECT_PATTERN = /^CORRECT::\s*(.+)$/m;
 const EXPLAIN_PATTERN = /^EXPLAIN::\s*(.+)$/m;
 
+// Hint and Context patterns
+const HINT_PATTERN = /^HINT::\s*(.+)$/m;
+const CONTEXT_PATTERN = /^CONTEXT::\s*(.+)$/m;
+
 // Visual patterns
 const IMG_PATTERN = /^IMG::\s*(.+)$/m;
 
@@ -121,6 +125,9 @@ export function parseCardBlock(
   // Check for reverse cards (Q:::)
   const reverseQ = block.match(REVERSE_Q_PATTERN);
   const reverseA = block.match(REVERSE_A_PATTERN);
+  const hint = block.match(HINT_PATTERN)?.[1]?.trim();
+  const context = block.match(CONTEXT_PATTERN)?.[1]?.trim();
+
   if (reverseQ && reverseA) {
     // Create forward card
     cards.push({
@@ -130,6 +137,8 @@ export function parseCardBlock(
       type: "forward",
       question: reverseQ[1].trim(),
       answer: reverseA[1].trim(),
+      hint,
+      context,
       sourceFile,
       tags: frontmatter.tags || []
     });
@@ -142,6 +151,8 @@ export function parseCardBlock(
       type: "reverse",
       question: reverseA[1].trim(),
       answer: reverseQ[1].trim(),
+      hint,
+      context,
       sourceFile,
       tags: frontmatter.tags || []
     });
@@ -159,6 +170,8 @@ export function parseCardBlock(
       type: "forward",
       question: forwardQ[1].trim(),
       answer: forwardA[1].trim(),
+      hint,
+      context,
       sourceFile,
       tags: frontmatter.tags || []
     });

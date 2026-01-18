@@ -96,3 +96,38 @@ MATCH::
 - Tâm Bào Lạc | Tam Tiêu
 - Tỳ | Vị
 - Phế | Đại Trường
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Số lượng Tạng Phủ
+MCQ:: Cơ thể có tổng cộng bao nhiêu tạng phủ?
+- [ ] 10 (5 tạng + 5 phủ)
+- [x] 12 (6 tạng + 6 phủ)
+- [ ] 14 (7 tạng + 7 phủ)
+- [ ] 8 (4 tạng + 4 phủ)
+EXPLAIN:: 6 TẠNG: Tâm, Can, Tỳ, Phế, Thận, Tâm Bào Lạc. 6 PHỦ: Đởm, Vị, Tiểu Trường, Đại Trường, Tam Tiêu, Bàng Quang. Mẹo: Tạng=Âm (rỗng, chứa), Phủ=Dương (đặc, xử lý).
+
+## MCQ 2 - Khai khiếu của Tạng
+MCQ:: Tạng nào "khai khiếu" ra mắt?
+- [ ] Tâm
+- [x] Can
+- [ ] Thận
+- [ ] Phế
+EXPLAIN:: Can khai khiếu ra MẮT. Mẹo nhớ các tạng: Tâm→lưỡi, Can→mắt, Tỳ→miệng, Phế→mũi, Thận→tai. "Tâm lưỡi, Can mắt, Tỳ miệng, Phế mũi, Thận tai"
+
+## MCQ 3 - Tam Tiêu
+MCQ:: Thượng tiêu bao gồm tạng phủ nào?
+- [x] Tâm, Phế
+- [ ] Tỳ, Vị
+- [ ] Can, Thận
+- [ ] Tiểu Trường, Đại Trường
+EXPLAIN:: Thượng=trên ngực (Tâm, Phế). Trung=bụng giữa (Tỳ, Vị). Hạ=bụng dưới (Can, Thận, Ruột, Bàng Quang). Mẹo: "Thượng-Tim-Phổi, Trung-Lá lách-Dạ dày, Hạ-Gan-Thận-Ruột"
+
+## MCQ 4 - Biểu Lý
+MCQ:: Tâm Bào Lạc biểu lý với phủ nào?
+- [ ] Tiểu Trường
+- [ ] Đởm
+- [x] Tam Tiêu
+- [ ] Vị
+EXPLAIN:: Các cặp biểu lý: Phế-Đại Trường, Tâm-Tiểu Trường, TÂM BÀO-TAM TIÊU, Tỳ-Vị, Can-Đởm, Thận-Bàng Quang. Mẹo: Tâm Bào "bọc" Tâm như Tam Tiêu "bọc" cơ thể.

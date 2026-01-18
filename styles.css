@@ -147,6 +147,63 @@
   padding: 0.75rem;
 }
 
+/* Hint Styles */
+.cclk-card-hint {
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.cclk-hint-button {
+  background: transparent;
+  border: 1px dashed var(--text-muted);
+  color: var(--text-muted);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.cclk-hint-button:hover {
+  border-color: var(--text-normal);
+  color: var(--text-normal);
+}
+
+.cclk-hint-content {
+  background: var(--background-modifier-info);
+  padding: 0.75rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  color: var(--text-normal);
+}
+
+.cclk-hint-icon {
+  margin-right: 0.25rem;
+}
+
+.cclk-card-hint-answered {
+  margin-top: 0.75rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--background-modifier-info);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* Context Styles */
+.cclk-card-context {
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  background: var(--background-modifier-form-field);
+  border-left: 3px solid var(--color-blue);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.95rem;
+  color: var(--text-normal);
+}
+
+.cclk-context-icon {
+  margin-right: 0.25rem;
+}
+
 /* Rating Buttons */
 .cclk-rating-buttons {
   display: flex;
@@ -597,4 +654,255 @@
   color: var(--text-on-accent);
   border: none;
   cursor: pointer;
+}
+
+/* MCQ Display */
+.cclk-mcq {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.cclk-mcq-question {
+  background: var(--background-secondary);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.cclk-mcq-question-text {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+.cclk-mcq-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.cclk-mcq-option {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  background: var(--background-secondary);
+  border: 2px solid transparent;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.2s;
+}
+
+.cclk-mcq-option:hover:not(:disabled) {
+  background: var(--background-modifier-hover);
+}
+
+.cclk-mcq-option.selected {
+  border-color: var(--interactive-accent);
+  background: var(--background-modifier-hover);
+}
+
+.cclk-mcq-option.correct {
+  border-color: var(--color-green);
+  background: rgba(0, 200, 100, 0.15);
+}
+
+.cclk-mcq-option.incorrect {
+  border-color: var(--color-red);
+  background: rgba(255, 100, 100, 0.15);
+}
+
+.cclk-mcq-option.dimmed {
+  opacity: 0.5;
+}
+
+.cclk-mcq-letter {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--background-primary);
+  font-weight: bold;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.cclk-mcq-text {
+  flex: 1;
+}
+
+.cclk-mcq-check {
+  color: var(--color-green);
+  font-weight: bold;
+}
+
+.cclk-mcq-wrong {
+  color: var(--color-red);
+  font-weight: bold;
+}
+
+.cclk-mcq-submit {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 8px;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  margin-top: auto;
+}
+
+.cclk-mcq-submit:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.cclk-mcq-feedback {
+  padding: 1rem;
+  border-radius: 8px;
+  background: var(--background-secondary);
+  margin-top: auto;
+}
+
+.cclk-mcq-correct-msg {
+  color: var(--color-green);
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.cclk-mcq-incorrect-msg {
+  color: var(--color-red);
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.cclk-mcq-explanation {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  border-top: 1px solid var(--background-modifier-border);
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Gamification Styles */
+.cclk-gamification {
+  margin-bottom: 1rem;
+  background: var(--background-secondary);
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.cclk-streak-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.cclk-streak {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cclk-streak-fire {
+  font-size: 1.5rem;
+}
+
+.cclk-streak-count {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--text-accent);
+}
+
+.cclk-streak-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.cclk-today-stats {
+  display: flex;
+  gap: 1rem;
+}
+
+.cclk-stat-item {
+  text-align: center;
+}
+
+.cclk-stat-value {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: var(--text-normal);
+}
+
+.cclk-stat-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.cclk-achievements-toggle {
+  width: 100%;
+  padding: 0.5rem;
+  background: transparent;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.cclk-achievements-toggle:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.cclk-achievements-list {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.cclk-achievement {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  background: var(--background-primary);
+}
+
+.cclk-achievement.earned {
+  border-left: 3px solid var(--color-green);
+}
+
+.cclk-achievement.locked {
+  opacity: 0.5;
+}
+
+.cclk-achievement-icon {
+  font-size: 1.25rem;
+}
+
+.cclk-achievement-info {
+  flex: 1;
+}
+
+.cclk-achievement-title {
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.cclk-achievement-desc {
+  font-size: 0.75rem;
+  color: var(--text-muted);
 }

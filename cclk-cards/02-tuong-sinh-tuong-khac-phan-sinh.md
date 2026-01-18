@@ -23,3 +23,31 @@ MATCH::
 - Thủy | Hỏa
 - Thổ | Thử
 - Kim | Mộc
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Tương Sinh
+MCQ:: Kim sinh ra hành nào?
+- [ ] Thử
+- [x] Thủy
+- [ ] Mộc
+- [ ] Hỏa
+EXPLAIN:: Thổ→Kim→THỦY→Thử→Mộc→Hỏa. Kim sinh Thủy (kim loại khi lạnh đọng sương = nước).
+
+## MCQ 2 - Phản Sinh
+MCQ:: Phản sinh khác gì Tương sinh?
+- [ ] Hoàn toàn giống nhau
+- [ ] Phản sinh là tương khắc
+- [x] Phản sinh là ngược chiều (con sinh mẹ)
+- [ ] Phản sinh chỉ có 3 cặp
+EXPLAIN:: Tương sinh: mẹ sinh con (Thổ→Kim). Phản sinh: con sinh mẹ (Kim→Thổ). Cả hai đều 6 cặp, ngược chiều nhau.
+
+## MCQ 3 - Tương Khắc
+MCQ:: Hành nào khắc Mộc?
+- [ ] Thủy
+- [ ] Thử
+- [x] Kim
+- [ ] Thổ
+EXPLAIN:: 3 cặp khắc: Thủy-Hỏa, Thổ-Thử, Kim-Mộc. Kim khắc Mộc (dao chặt cây).
+

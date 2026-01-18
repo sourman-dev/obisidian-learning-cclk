@@ -41,6 +41,10 @@ export interface Card {
   options?: MCQOption[];
   /** Correct answer explanation (for mcq type) */
   explanation?: string;
+  /** Hint to help remember (for Q&A cards) */
+  hint?: string;
+  /** Context/why this matters */
+  context?: string;
   /** Image path (for visual type) */
   imagePath?: string;
   /** Source file path */

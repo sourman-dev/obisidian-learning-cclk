@@ -48,3 +48,38 @@ MATCH::
 - Túc châm | 13 huyệt
 - Âm châm | 14 huyệt
 - Dương châm | 12 huyệt
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Nguyên lý HÒA
+MCQ:: Nguyên lý chính của châm cứu lục khí là gì?
+- [ ] Tiêu diệt bệnh tật
+- [ ] Tăng cường sức đề kháng
+- [x] Cân bằng năng lượng (HÒA)
+- [ ] Bổ sung khí huyết
+EXPLAIN:: Nguyên lý "HÒA" = cân bằng khí-huyết cho tạng phủ. Không phải tiêu diệt hay bổ sung, mà là điều hòa để cơ thể tự khỏe mạnh.
+
+## MCQ 2 - Số cách châm
+MCQ:: Có bao nhiêu cách châm chính trong Châm cứu Lục khí?
+- [ ] 2 cách
+- [ ] 3 cách
+- [x] 4 cách
+- [ ] 6 cách
+EXPLAIN:: 4 cách: THỦ châm (6 kinh tay), TÚC châm (6 kinh chân), ÂM châm (6 kinh âm), DƯƠNG châm (6 kinh dương). Mẹo: "Tay-Chân-Âm-Dương"
+
+## MCQ 3 - Tổng bộ huyệt
+MCQ:: Có tổng cộng bao nhiêu bộ huyệt căn bản?
+- [ ] 12 bộ
+- [ ] 18 bộ
+- [x] 24 bộ
+- [ ] 36 bộ
+EXPLAIN:: 24 bộ = 6 bộ mạch × 4 cách châm. (Thổ-Kim-Thủy-Thử-Mộc-Hỏa) × (Thủ-Túc-Âm-Dương) = 24.
+
+## MCQ 4 - Số huyệt theo cách châm
+MCQ:: Cách châm nào có ÍT huyệt nhất?
+- [ ] Thủ châm (13 huyệt)
+- [ ] Túc châm (13 huyệt)
+- [ ] Âm châm (14 huyệt)
+- [x] Dương châm (12 huyệt)
+EXPLAIN:: Dương châm = 12 huyệt (ít nhất) vì không có huyệt Tĩnh kinh âm nên không thêm Hợp. Âm châm = 14 (nhiều nhất). Mẹo: "Âm nhiều Dương ít"

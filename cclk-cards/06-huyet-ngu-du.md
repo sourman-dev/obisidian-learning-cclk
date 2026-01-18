@@ -46,3 +46,38 @@ MATCH::
 - Nguyên | Vị trí 4
 - Kinh | Vị trí 5
 - Hợp | Vị trí 6
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Số huyệt Ngũ Du
+MCQ:: Kinh dương có bao nhiêu huyệt ngũ du?
+- [ ] 4 huyệt
+- [ ] 5 huyệt
+- [x] 6 huyệt
+- [ ] 7 huyệt
+EXPLAIN:: Kinh Âm = 5 huyệt (Tĩnh-Vinh-Du-Kinh-Hợp). Kinh Dương = 6 huyệt (thêm NGUYÊN giữa Du và Kinh). Mẹo: "Âm 5, Dương 6" - Dương mạnh hơn nên có thêm Nguyên.
+
+## MCQ 2 - Huyệt Nguyên
+MCQ:: Huyệt Nguyên nằm ở vị trí nào trong kinh dương?
+- [ ] Vị trí 3 (sau Vinh)
+- [x] Vị trí 4 (sau Du, trước Kinh)
+- [ ] Vị trí 5 (sau Kinh)
+- [ ] Vị trí 6 (cuối cùng)
+EXPLAIN:: Thứ tự kinh Dương: Tĩnh(1)→Vinh(2)→Du(3)→NGUYÊN(4)→Kinh(5)→Hợp(6). Nguyên = nguồn gốc, nằm ở cổ tay/cổ chân.
+
+## MCQ 3 - Xác định Hành Huyệt
+MCQ:: Theo quy tắc, huyệt Tĩnh mang hành gì?
+- [ ] Cùng hành với BỘ của kinh
+- [x] Hành mà BỘ sinh ra (con)
+- [ ] Hành sinh ra BỘ (mẹ)
+- [ ] Hành khắc với BỘ
+EXPLAIN:: Bước 1: Xác định BỘ. Bước 2: Tĩnh = hành mà BỘ sinh ra (Tương Sinh). Ví dụ: Kinh Tâm thuộc Bộ Thử. Thử sinh Mộc → Tĩnh=Mộc. Mẹo: "Tĩnh là con của Bộ"
+
+## MCQ 4 - Huyệt Du đặc biệt
+MCQ:: Huyệt Du (vị trí 3) có đặc điểm gì?
+- [ ] Cùng hành với BỘ
+- [ ] Hành sinh ra BỘ
+- [x] Hành khắc với BỘ
+- [ ] Không có quy tắc
+EXPLAIN:: Huyệt Du luôn mang hành KHẮC với BỘ của kinh. Đây là điểm đặc biệt để nhớ! Ví dụ: Bộ Thử → Du=Thổ (Thổ khắc Thử).

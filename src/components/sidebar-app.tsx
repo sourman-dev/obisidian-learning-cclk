@@ -12,6 +12,8 @@ import { ProgressStats } from "./progress-stats";
 import { SessionComplete } from "./session-complete";
 import { AnalyticsView } from "./analytics-view";
 import { DrillMode } from "./drill-mode";
+import { MCQDisplay } from "./mcq-display";
+import { GamificationStats } from "./gamification-stats";
 import { useStudySession } from "../hooks/use-study-session";
 import { CardLoader } from "../core/card-loader";
 import { ProgressManager } from "../core/progress-manager";
@@ -180,6 +182,7 @@ export function SidebarApp() {
             Analytics
           </button>
         </div>
+        <GamificationStats progressManager={progressManager} />
         <TopicSelector topics={topics} onStart={handleStart} />
       </div>
     );
@@ -207,6 +210,13 @@ export function SidebarApp() {
         <MatchingPairsDisplay
           pairs={currentCard.pairs || []}
           onComplete={(correct) => rateCard(correct ? "good" : "again")}
+        />
+      ) : currentCard && currentCard.type === "mcq" ? (
+        <MCQDisplay
+          card={currentCard}
+          onAnswer={(correct, selectedIndex) => {
+            rateCard(correct ? "good" : "again");
+          }}
         />
       ) : currentCard ? (
         <>

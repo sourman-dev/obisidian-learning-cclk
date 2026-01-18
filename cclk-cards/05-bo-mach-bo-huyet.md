@@ -55,3 +55,30 @@ MATCH::
 - Bộ Thử | Đởm
 - Bộ Mộc | Tam Tiêu
 - Bộ Hỏa | Vị
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - HÀNH vs BỘ
+MCQ:: Điều gì đúng về HÀNH và BỘ trong châm cứu Lục khí?
+- [ ] HÀNH và BỘ luôn giống nhau
+- [x] Tạng có HÀNH=BỘ, Phủ có HÀNH≠BỘ
+- [ ] Phủ có HÀNH=BỘ, Tạng có HÀNH≠BỘ
+- [ ] HÀNH và BỘ không liên quan nhau
+EXPLAIN:: HÀNH = bản chất (thuộc tính cố định). BỘ = vị trí trong hệ thống mạch/huyệt. Tạng: HÀNH=BỘ (trùng). Phủ: HÀNH≠BỘ (khác). Ví dụ: Đại Trường có HÀNH Kim nhưng thuộc BỘ Thổ.
+
+## MCQ 2 - Bộ Thử
+MCQ:: Bộ Thử gồm tạng phủ nào?
+- [ ] Tiểu Trường và Thận
+- [ ] Tam Tiêu và Can
+- [x] Đởm và Tâm
+- [ ] Vị và Tâm Bào Lạc
+EXPLAIN:: Bộ Thử = Đởm (Dương Thử, Hành Mộc) + Tâm (Âm Thử, Hành Thử). Mẹo: "Thử-Đởm-Tâm" - Đởm quyết đoán như Tâm.
+
+## MCQ 3 - Phủ trong Bộ
+MCQ:: Bàng Quang thuộc bộ nào?
+- [ ] Bộ Thủy
+- [x] Bộ Kim
+- [ ] Bộ Thổ
+- [ ] Bộ Mộc
+EXPLAIN:: Bàng Quang có HÀNH Thủy nhưng thuộc BỘ KIM. Phủ luôn có BỘ khác HÀNH! Mẹo nhớ 6 phủ theo BỘ: "Thổ-Đại, Kim-Bàng, Thủy-Tiểu, Thử-Đởm, Mộc-Tam, Hỏa-Vị"

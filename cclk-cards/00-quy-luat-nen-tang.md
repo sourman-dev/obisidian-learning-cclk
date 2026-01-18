@@ -134,3 +134,71 @@ MATCH::
 - Tỳ | Vị
 - Can | Đởm
 - Thận | Bàng Quang
+
+---
+# MCQ - Kiểm tra hiểu biết
+
+## MCQ 1 - Lục Khí khác gì Ngũ Hành
+MCQ:: CCLK khác Ngũ Hành Trung Quốc như thế nào?
+- [ ] Dùng 4 hành thay vì 5
+- [x] Thêm hành Thử (6 hành)
+- [ ] Bỏ hành Thổ
+- [ ] Dùng 7 hành
+EXPLAIN:: CCLK = Châm cứu Lục Khí, dùng 6 hành (Thổ-Kim-Thủy-Thử-Mộc-Hỏa). Điểm khác biệt chính là thêm hành THỬ (nóng mùa hè).
+
+## MCQ 2 - Thứ tự Tương Sinh
+MCQ:: Theo Lục Khí, hành nào sinh ra hành Mộc?
+- [ ] Hỏa
+- [ ] Kim
+- [x] Thử
+- [ ] Thổ
+EXPLAIN:: Thứ tự Tương Sinh: Thổ→Kim→Thủy→Thử→Mộc→Hỏa. Vậy THỬ sinh MỘC. Mẹo nhớ: "Thổ Kim Thủy, Thử Mộc Hỏa" (đọc như câu thần chú).
+
+## MCQ 3 - Tương Khắc
+MCQ:: Cặp nào KHÔNG phải Tương Khắc trong Lục Khí?
+- [ ] Thủy - Hỏa
+- [ ] Thổ - Thử
+- [x] Kim - Thủy
+- [ ] Kim - Mộc
+EXPLAIN:: 3 cặp Tương Khắc: Thủy-Hỏa (nước dập lửa), Thổ-Thử (đất hấp thụ nhiệt), Kim-Mộc (dao chặt cây). Kim-Thủy là Tương Sinh, không phải Tương Khắc.
+
+## MCQ 4 - Số huyệt Ngũ Du
+MCQ:: Kinh Dương có bao nhiêu Ngũ Du Huyệt?
+- [ ] 4 huyệt
+- [ ] 5 huyệt
+- [x] 6 huyệt
+- [ ] 7 huyệt
+EXPLAIN:: Kinh Âm có 5 huyệt, Kinh Dương có 6 huyệt (thêm Nguyên). Mẹo nhớ: "Âm 5, Dương 6" - Dương mạnh hơn nên có thêm 1 huyệt.
+
+## MCQ 5 - Vị trí Huyệt Tĩnh
+MCQ:: Huyệt Tĩnh luôn nằm ở đâu trên cơ thể?
+- [x] Góc móng tay/chân
+- [ ] Cổ tay/cổ chân
+- [ ] Khuỷu tay/đầu gối
+- [ ] Giữa cẳng tay/cẳng chân
+EXPLAIN:: Huyệt Tĩnh = "bắt đầu" = ở xa nhất = góc móng, cách 0,1 thốn. Đây là quy tắc cố định cho TẤT CẢ 12 kinh.
+
+## MCQ 6 - Vị trí Huyệt Hợp
+MCQ:: Huyệt Hợp luôn nằm ở vùng nào?
+- [ ] Góc móng tay/chân
+- [ ] Cổ tay/cổ chân
+- [ ] Giữa cẳng tay/cẳng chân
+- [x] Khuỷu tay/đầu gối
+EXPLAIN:: Huyệt Hợp = "hội tụ" = ở gần nhất = khuỷu tay/đầu gối. Thứ tự từ xa đến gần: Tĩnh→Vinh→Du→(Nguyên)→Kinh→Hợp.
+
+## MCQ 7 - Biểu Lý
+MCQ:: Kinh Phế biểu lý với kinh nào?
+- [ ] Tiểu Trường
+- [x] Đại Trường
+- [ ] Bàng Quang
+- [ ] Tam Tiêu
+EXPLAIN:: Phế-Đại Trường cùng thuộc Kim, là cặp biểu lý (Âm-Dương). Mẹo: "Phế Đại" nghe gần giống nhau.
+
+## MCQ 8 - Quy tắc Bổ Kinh Âm
+MCQ:: Với Kinh Âm, huyệt Bổ mang hành gì?
+- [x] Cùng hành với tạng
+- [ ] Hành mẹ (sinh ra hành của tạng)
+- [ ] Hành con (được tạng sinh ra)
+- [ ] Hành khắc tạng
+EXPLAIN:: Kinh Âm: Bổ = cùng hành. Kinh Dương: Bổ = hành mẹ. Đây là nguyên tắc quan trọng nhất để xác định huyệt châm.
+
