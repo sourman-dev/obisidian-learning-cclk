@@ -3,26 +3,18 @@ topic: Huyệt Kinh Thận
 chapter: 13
 tags: [huyet-vi, kinh-than, tuc-thieu-am]
 priority: 2
-conceptId: dung-tuyen
-confusableWith: 
-id: duong-lang-tuyen
-score: 0.25
-reason: same_suffix
 lector:
-  conceptId: am-lang-tuyen
+  conceptId: dung-tuyen
   confusableWith:
-    -
-      id: am-coc
-      score: 0.5
-      reason: same_prefix
-    -
-      id: khuc-tuyen
-      score: 0.4
-      reason: same_suffix
-    -
-      id: duong-lang-tuyen
-      score: 0.4
-      reason: same_suffix
+  - id: am-lang-tuyen
+    score: 0.25
+    reason: same_suffix
+  - id: khuc-tuyen
+    score: 0.25
+    reason: same_suffix
+  - id: duong-lang-tuyen
+    score: 0.25
+    reason: same_suffix
 ---
 
 # Huyệt Kinh Túc Thiếu Âm Thận
@@ -92,16 +84,8 @@ MATCH::
 
 ## MCQ 1
 MCQ:: Huyệt nào KHÔNG thuộc kinh Thận?
-- [ ] Thái Khê
 - [x] Âm Lăng Tuyền
-- [ ] Dũng Tuyền
 - [ ] Nhiên Cốc
+- [ ] Dũng Tuyền
+- [ ] Thái Khê
 EXPLAIN:: Âm Lăng Tuyền thuộc kinh Tỳ, không phải kinh Thận. Dễ nhầm vì có cùng chữ cuối.
-
-## MCQ 1
-MCQ:: Huyệt nào KHÔNG thuộc kinh Tỳ?
-- [ ] Ẩn Bạch
-- [ ] Âm Lăng Tuyền
-- [ ] Đại Đô
-- [x] Âm Cốc
-EXPLAIN:: Âm Cốc thuộc kinh Thận, không phải kinh Tỳ. Dễ nhầm vì có cùng chữ đầu.

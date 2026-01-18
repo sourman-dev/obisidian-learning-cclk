@@ -3,26 +3,18 @@ topic: Huyệt Kinh Đởm
 chapter: 12
 tags: [huyet-vi, kinh-dom, tuc-thieu-duong]
 priority: 2
-conceptId: tuc-khieu-am
-confusableWith: 
-id: tuc-tam-ly
-score: 0.35
-reason: same_prefix
 lector:
   conceptId: tuc-khieu-am
   confusableWith:
-    -
-      id: tuc-lam-khap
-      score: 0.6
-      reason: same_prefix
-    -
-      id: chi-am
-      score: 0.4
-      reason: same_suffix
-    -
-      id: tuc-tam-ly
-      score: 0.35
-      reason: same_prefix
+  - id: tuc-lam-khap
+    score: 0.6
+    reason: same_prefix
+  - id: chi-am
+    score: 0.4
+    reason: same_suffix
+  - id: tuc-tam-ly
+    score: 0.35
+    reason: same_prefix
 ---
 
 # Huyệt Kinh Túc Thiếu Dương Đởm

@@ -361,12 +361,18 @@ function serializeNestedObject(
       output += `${spaces}${key}:\n`;
       for (const item of value) {
         if (typeof item === "object") {
-          output += `${spaces}  -\n`;
-          for (const [k, v] of Object.entries(item as Record<string, unknown>)) {
-            output += `${spaces}    ${k}: ${v}\n`;
+          // Format: - key1: val1 (first), key2: val2 (next lines indented)
+          const entries = Object.entries(item as Record<string, unknown>);
+          if (entries.length > 0) {
+            const [firstKey, firstVal] = entries[0];
+            output += `${spaces}- ${firstKey}: ${firstVal}\n`;
+            for (let i = 1; i < entries.length; i++) {
+              const [k, v] = entries[i];
+              output += `${spaces}  ${k}: ${v}\n`;
+            }
           }
         } else {
-          output += `${spaces}  - ${item}\n`;
+          output += `${spaces}- ${item}\n`;
         }
       }
     } else if (typeof value === "object") {

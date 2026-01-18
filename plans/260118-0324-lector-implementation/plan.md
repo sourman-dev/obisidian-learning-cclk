@@ -39,7 +39,7 @@ PRE-COMPUTE (LLM, one-time)          RUNTIME (Plugin, offline)
 |---|-------|--------|--------|------|
 | 1 | Pre-compute Semantic Matrix | Done | 3h | [phase-01](./phase-01-precompute-semantic-matrix.md) |
 | 2 | Generate Enhanced Cards | Pending | 3h | [phase-02](./phase-02-generate-enhanced-cards.md) |
-| 3 | Extract Visual Assets | Pending | 2h | [phase-03](./phase-03-extract-visual-assets.md) |
+| 3 | Extract Position Descriptions | Pending | 1.5h | [phase-03](./phase-03-extract-position-descriptions.md) |
 | 4 | LECTOR Scheduling Engine | Pending | 4h | [phase-04](./phase-04-lector-scheduling-engine.md) |
 | 5 | Confusion Tracking & Analytics | Pending | 4h | [phase-05](./phase-05-confusion-tracking-analytics.md) |
 
