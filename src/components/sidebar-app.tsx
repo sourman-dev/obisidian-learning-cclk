@@ -2,7 +2,7 @@
  * Main Sidebar Application
  */
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useMemo } from "react";
 import { useAppContext } from "../context/app-context";
 import { TopicSelector } from "./topic-selector";
 import { FlashcardDisplay } from "./flashcard-display";
@@ -10,12 +10,19 @@ import { MatchingPairsDisplay } from "./matching-pairs-display";
 import { RatingButtons } from "./rating-buttons";
 import { ProgressStats } from "./progress-stats";
 import { SessionComplete } from "./session-complete";
+import { AnalyticsView } from "./analytics-view";
+import { DrillMode } from "./drill-mode";
 import { useStudySession } from "../hooks/use-study-session";
 import { CardLoader } from "../core/card-loader";
 import { ProgressManager } from "../core/progress-manager";
+import { ConfusionTracker, initConfusionTracker } from "../core/confusion-tracker";
+import { AnalyticsEngine } from "../core/analytics-engine";
+import { getSemanticMatrix } from "../core/semantic-matrix";
 import { TopicInfo, CardWithState } from "../types/card-types";
 import { SM2CardState } from "../types/sm2-types";
-import { StudyMode } from "../types/study-session-types";
+import { StudyMode, RatingType } from "../types/study-session-types";
+
+type ViewMode = "main" | "analytics" | "drill";
 
 export function SidebarApp() {
   const { app, plugin } = useAppContext();
@@ -27,6 +34,20 @@ export function SidebarApp() {
   const [cardLoader] = useState(
     () => new CardLoader(app, plugin.settings.cardsFolder, progressManager)
   );
+  const [confusionTracker] = useState(() => initConfusionTracker());
+
+  // Analytics engine
+  const analyticsEngine = useMemo(() => {
+    return new AnalyticsEngine(
+      progressManager,
+      confusionTracker,
+      getSemanticMatrix()
+    );
+  }, [progressManager, confusionTracker]);
+
+  // View state
+  const [viewMode, setViewMode] = useState<ViewMode>("main");
+  const [drillConcepts, setDrillConcepts] = useState<string[]>([]);
 
   // Data state
   const [topics, setTopics] = useState<TopicInfo[]>([]);
@@ -78,15 +99,87 @@ export function SidebarApp() {
     resetSession();
   }, [progressManager, cardLoader, session, resetSession]);
 
+  // Handle starting drill mode
+  const handleStartDrill = useCallback((conceptIds: string[]) => {
+    setDrillConcepts(conceptIds);
+    setViewMode("drill");
+  }, []);
+
+  // Handle drill card rating
+  const handleDrillRate = useCallback(async (cardId: string, rating: RatingType) => {
+    // Use the same rating logic
+    const qualityMap: Record<RatingType, number> = {
+      again: 1,
+      hard: 2,
+      good: 4,
+      easy: 5
+    };
+    const quality = qualityMap[rating];
+
+    // Update card state (simplified for drill mode)
+    const card = cards.find(c => c.id === cardId);
+    if (card) {
+      const newState = { ...card.state };
+      // Update next review based on rating
+      const daysToAdd = rating === "again" ? 0 : rating === "hard" ? 1 : rating === "good" ? 3 : 7;
+      const nextDate = new Date();
+      nextDate.setDate(nextDate.getDate() + daysToAdd);
+      newState.nextReview = nextDate.toISOString().split("T")[0];
+      await progressManager.updateCardState(cardId, newState);
+    }
+  }, [cards, progressManager]);
+
+  // Handle drill complete
+  const handleDrillComplete = useCallback(() => {
+    setViewMode("main");
+    setDrillConcepts([]);
+  }, []);
+
   if (loading) {
     return <div className="cclk-loading">Loading cards...</div>;
+  }
+
+  // Analytics view
+  if (viewMode === "analytics") {
+    return (
+      <div className="cclk-sidebar">
+        <AnalyticsView
+          analytics={analyticsEngine}
+          onStartDrill={handleStartDrill}
+          onClose={() => setViewMode("main")}
+        />
+      </div>
+    );
+  }
+
+  // Drill mode view
+  if (viewMode === "drill") {
+    return (
+      <div className="cclk-sidebar">
+        <DrillMode
+          conceptIds={drillConcepts}
+          cards={cards}
+          onRateCard={handleDrillRate}
+          onComplete={handleDrillComplete}
+        />
+      </div>
+    );
   }
 
   // Setup phase
   if (session.phase === "setup") {
     return (
       <div className="cclk-sidebar">
-        <h2>CCLK Flashcards</h2>
+        <div className="cclk-header">
+          <h2>CCLK Flashcards</h2>
+          <button
+            className="cclk-analytics-button"
+            onClick={() => setViewMode("analytics")}
+            title="View Analytics"
+          >
+            Analytics
+          </button>
+        </div>
         <TopicSelector topics={topics} onStart={handleStart} />
       </div>
     );
