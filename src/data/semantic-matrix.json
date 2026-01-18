@@ -1,0 +1,4637 @@
+{
+  "version": 1,
+  "generated": "2026-01-18T01:32:25.356Z",
+  "concepts": [
+    {
+      "id": "thieu-thuong",
+      "name": "Thiếu Thương",
+      "kinh": "Phế",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "08a-huyet-kinh-phe.md"
+    },
+    {
+      "id": "ngu-te",
+      "name": "Ngư Tế",
+      "kinh": "Phế",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "08a-huyet-kinh-phe.md"
+    },
+    {
+      "id": "thai-uyen",
+      "name": "Thái Uyên",
+      "kinh": "Phế",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "08a-huyet-kinh-phe.md"
+    },
+    {
+      "id": "kinh-cu",
+      "name": "Kinh Cừ",
+      "kinh": "Phế",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "08a-huyet-kinh-phe.md"
+    },
+    {
+      "id": "xich-trach",
+      "name": "Xích Trạch",
+      "kinh": "Phế",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "08a-huyet-kinh-phe.md"
+    },
+    {
+      "id": "thuong-duong",
+      "name": "Thương Dương",
+      "kinh": "Đại Trường",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "nhi-gian",
+      "name": "Nhị Gian",
+      "kinh": "Đại Trường",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "tam-gian",
+      "name": "Tam Gian",
+      "kinh": "Đại Trường",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "hop-coc",
+      "name": "Hợp Cốc",
+      "kinh": "Đại Trường",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "duong-khe",
+      "name": "Dương Khê",
+      "kinh": "Đại Trường",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "khuc-tri",
+      "name": "Khúc Trì",
+      "kinh": "Đại Trường",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+    },
+    {
+      "id": "trung-xung",
+      "name": "Trung Xung",
+      "kinh": "Tâm Bào",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+    },
+    {
+      "id": "lao-cung",
+      "name": "Lao Cung",
+      "kinh": "Tâm Bào",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+    },
+    {
+      "id": "dai-lang",
+      "name": "Đại Lăng",
+      "kinh": "Tâm Bào",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+    },
+    {
+      "id": "gian-su",
+      "name": "Giản Sử",
+      "kinh": "Tâm Bào",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+    },
+    {
+      "id": "khuc-trach",
+      "name": "Khúc Trạch",
+      "kinh": "Tâm Bào",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+    },
+    {
+      "id": "quan-xung",
+      "name": "Quan Xung",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "dich-mon",
+      "name": "Dịch Môn",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "trung-chu",
+      "name": "Trung Chữ",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "duong-tri",
+      "name": "Dương Trì",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "chi-cau",
+      "name": "Chi Cấu",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "thien-tinh",
+      "name": "Thiên Tĩnh",
+      "kinh": "Tam Tiêu",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+    },
+    {
+      "id": "thieu-xung",
+      "name": "Thiếu Xung",
+      "kinh": "Tâm",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "10a-huyet-kinh-tam.md"
+    },
+    {
+      "id": "thieu-phu",
+      "name": "Thiếu Phủ",
+      "kinh": "Tâm",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "10a-huyet-kinh-tam.md"
+    },
+    {
+      "id": "than-mon",
+      "name": "Thần Môn",
+      "kinh": "Tâm",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "10a-huyet-kinh-tam.md"
+    },
+    {
+      "id": "linh-dao",
+      "name": "Linh Đạo",
+      "kinh": "Tâm",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "10a-huyet-kinh-tam.md"
+    },
+    {
+      "id": "thieu-hai",
+      "name": "Thiếu Hải",
+      "kinh": "Tâm",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "10a-huyet-kinh-tam.md"
+    },
+    {
+      "id": "thieu-trach",
+      "name": "Thiếu Trạch",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "tien-coc",
+      "name": "Tiền Cốc",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "hau-khe",
+      "name": "Hậu Khê",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "uyen-cot",
+      "name": "Uyển Cốt",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "duong-coc",
+      "name": "Dương Cốc",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "tieu-hai",
+      "name": "Tiểu Hải",
+      "kinh": "Tiểu Trường",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+    },
+    {
+      "id": "an-bach",
+      "name": "Ẩn Bạch",
+      "kinh": "Tỳ",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "11a-huyet-kinh-ty.md"
+    },
+    {
+      "id": "dai-do",
+      "name": "Đại Đô",
+      "kinh": "Tỳ",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "11a-huyet-kinh-ty.md"
+    },
+    {
+      "id": "thai-bach",
+      "name": "Thái Bạch",
+      "kinh": "Tỳ",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "11a-huyet-kinh-ty.md"
+    },
+    {
+      "id": "thuong-khau",
+      "name": "Thương Khâu",
+      "kinh": "Tỳ",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "11a-huyet-kinh-ty.md"
+    },
+    {
+      "id": "am-lang-tuyen",
+      "name": "Âm Lăng Tuyền",
+      "kinh": "Tỳ",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "11a-huyet-kinh-ty.md"
+    },
+    {
+      "id": "le-doai",
+      "name": "Lệ Đoài",
+      "kinh": "Vị",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "noi-dinh",
+      "name": "Nội Đình",
+      "kinh": "Vị",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "ham-coc",
+      "name": "Hãm Cốc",
+      "kinh": "Vị",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "xung-duong",
+      "name": "Xung Dương",
+      "kinh": "Vị",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "giai-khe",
+      "name": "Giải Khê",
+      "kinh": "Vị",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "tuc-tam-ly",
+      "name": "Túc Tam Lý",
+      "kinh": "Vị",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "11b-huyet-kinh-vi.md"
+    },
+    {
+      "id": "dai-don",
+      "name": "Đại Đôn",
+      "kinh": "Can",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "12a-huyet-kinh-can.md"
+    },
+    {
+      "id": "hanh-gian",
+      "name": "Hành Gian",
+      "kinh": "Can",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "12a-huyet-kinh-can.md"
+    },
+    {
+      "id": "thai-xung",
+      "name": "Thái Xung",
+      "kinh": "Can",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "12a-huyet-kinh-can.md"
+    },
+    {
+      "id": "trung-phong",
+      "name": "Trung Phong",
+      "kinh": "Can",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "12a-huyet-kinh-can.md"
+    },
+    {
+      "id": "khuc-tuyen",
+      "name": "Khúc Tuyền",
+      "kinh": "Can",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "12a-huyet-kinh-can.md"
+    },
+    {
+      "id": "tuc-khieu-am",
+      "name": "Túc Khiếu Âm",
+      "kinh": "Đởm",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "hiep-khe",
+      "name": "Hiệp Khê",
+      "kinh": "Đởm",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "tuc-lam-khap",
+      "name": "Túc Lâm Khấp",
+      "kinh": "Đởm",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "khau-khu",
+      "name": "Khâu Khư",
+      "kinh": "Đởm",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "duong-phu",
+      "name": "Dương Phụ",
+      "kinh": "Đởm",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "duong-lang-tuyen",
+      "name": "Dương Lăng Tuyền",
+      "kinh": "Đởm",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "12b-huyet-kinh-dom.md"
+    },
+    {
+      "id": "dung-tuyen",
+      "name": "Dũng Tuyền",
+      "kinh": "Thận",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "13a-huyet-kinh-than.md"
+    },
+    {
+      "id": "nhien-coc",
+      "name": "Nhiên Cốc",
+      "kinh": "Thận",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "13a-huyet-kinh-than.md"
+    },
+    {
+      "id": "thai-khe",
+      "name": "Thái Khê",
+      "kinh": "Thận",
+      "nguHanh": "Du + Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "13a-huyet-kinh-than.md"
+    },
+    {
+      "id": "phuc-luu",
+      "name": "Phục Lưu",
+      "kinh": "Thận",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "13a-huyet-kinh-than.md"
+    },
+    {
+      "id": "am-coc",
+      "name": "Âm Cốc",
+      "kinh": "Thận",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "13a-huyet-kinh-than.md"
+    },
+    {
+      "id": "chi-am",
+      "name": "Chí Âm",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Tĩnh",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    },
+    {
+      "id": "thong-coc",
+      "name": "Thông Cốc",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Vinh",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    },
+    {
+      "id": "thuc-cot",
+      "name": "Thúc Cốt",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Du",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    },
+    {
+      "id": "kinh-cot",
+      "name": "Kinh Cốt",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Nguyên",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    },
+    {
+      "id": "con-lon",
+      "name": "Côn Lôn",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Kinh",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    },
+    {
+      "id": "uy-trung",
+      "name": "Ủy Trung",
+      "kinh": "Bàng Quang",
+      "nguHanh": "Hợp",
+      "nguDuHuyet": "",
+      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+    }
+  ],
+  "matrix": {
+    "ngu-te:thieu-thuong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thai-uyen:thieu-thuong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cu:thieu-thuong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-thuong:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-thuong:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "nhi-gian:thieu-thuong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "tam-gian:thieu-thuong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hop-coc:thieu-thuong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-khe:thieu-thuong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tri:thieu-thuong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-thuong:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "quan-xung:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-thuong:thieu-xung": {
+      "score": 0.45,
+      "reasons": [
+        "similar_name",
+        "same_nguhanh"
+      ]
+    },
+    "thieu-phu:thieu-thuong": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "thieu-hai:thieu-thuong": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "thieu-thuong:thieu-trach": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-thuong:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:thieu-thuong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:thai-uyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cu:ngu-te": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ngu-te:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ngu-te:thuong-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "ngu-te:nhi-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "ngu-te:tam-gian": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hop-coc:ngu-te": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-khe:ngu-te": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tri:ngu-te": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "lao-cung:ngu-te": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:ngu-te": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:ngu-te": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:ngu-te": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:ngu-te": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ngu-te:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:thai-uyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thai-uyen:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thai-uyen:thuong-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "nhi-gian:thai-uyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "tam-gian:thai-uyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hop-coc:thai-uyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-khe:thai-uyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tri:thai-uyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:thai-uyen": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-uyen:than-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-bach:thai-uyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "thai-uyen:thai-xung": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "thai-khe:thai-uyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cu:thuong-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "kinh-cu:nhi-gian": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "kinh-cu:tam-gian": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hop-coc:kinh-cu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-khe:kinh-cu": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tri:kinh-cu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "gian-su:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cu:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cot:kinh-cu": {
+      "score": 0.3,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "con-lon:kinh-cu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuong-duong:xich-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "nhi-gian:xich-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "tam-gian:xich-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hop-coc:xich-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-khe:xich-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tri:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-trach:xich-trach": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "thien-tinh:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-hai:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-trach:xich-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "tieu-hai:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tuc-tam-ly:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "uy-trung:xich-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tam-gian:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hop-coc:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-khe:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-tri:thuong-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thuong-duong:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "quan-xung:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-xung:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-trach:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuong-duong:thuong-khau": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "le-doai:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuong-duong:xung-duong": {
+      "score": 0.3,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "dai-don:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuong-duong:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:thuong-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:tam-gian": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_kinh"
+      ]
+    },
+    "hop-coc:nhi-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-khe:nhi-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-tri:nhi-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "lao-cung:nhi-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:nhi-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:nhi-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:nhi-gian": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:nhi-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhi-gian:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hop-coc:tam-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-khe:tam-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-tri:tam-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tam-gian:trung-chu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hau-khe:tam-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:tam-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:tam-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "tam-gian:tuc-lam-khap": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tam-gian:thuc-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:hop-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hop-coc:khuc-tri": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-tri:hop-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hop-coc:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hop-coc:uyen-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:hop-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "ham-coc:hop-coc": {
+      "score": 0.29,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "hop-coc:xung-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hop-coc:khau-khu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hop-coc:nhien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "am-coc:hop-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hop-coc:thong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hop-coc:kinh-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:khuc-tri": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-khe:gian-su": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:duong-tri": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "chi-cau:duong-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:hau-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-coc:duong-khe": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:giai-khe": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-khe:duong-phu": {
+      "score": 0.46,
+      "reasons": [
+        "similar_name",
+        "same_nguhanh"
+      ]
+    },
+    "duong-khe:duong-lang-tuyen": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-khe:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-khe:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:duong-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:khuc-tri": {
+      "score": 0.43,
+      "reasons": [
+        "similar_name",
+        "same_nguhanh"
+      ]
+    },
+    "duong-tri:khuc-tri": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "khuc-tri:thien-tinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tri:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tri:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:khuc-tri": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tri:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tri:khuc-tuyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:khuc-tri": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:khuc-tri": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tri:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "lao-cung:trung-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-lang:trung-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "gian-su:trung-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-trach:trung-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "quan-xung:trung-xung": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "dich-mon:trung-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "trung-chu:trung-xung": {
+      "score": 0.45,
+      "reasons": [
+        "same_prefix",
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-tri:trung-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-cau:trung-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thien-tinh:trung-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-xung:trung-xung": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "thieu-trach:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-xung:trung-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "trung-phong:trung-xung": {
+      "score": 0.29,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "trung-xung:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:trung-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-lang:lao-cung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "gian-su:lao-cung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-trach:lao-cung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "lao-cung:quan-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dich-mon:lao-cung": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "lao-cung:trung-chu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-tri:lao-cung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-cau:lao-cung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "lao-cung:thien-tinh": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "lao-cung:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "lao-cung:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:lao-cung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "lao-cung:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:lao-cung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:lao-cung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "lao-cung:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "lao-cung:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-lang:gian-su": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-lang:khuc-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-lang:quan-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:dich-mon": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:trung-chu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:duong-tri": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-cau:dai-lang": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:thien-tinh": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-lang:than-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:dai-lang": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "dai-lang:thai-bach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:dai-lang": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "dai-lang:thai-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-lang:thai-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "gian-su:khuc-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "gian-su:quan-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dich-mon:gian-su": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "gian-su:trung-chu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-tri:gian-su": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-cau:gian-su": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "gian-su:thien-tinh": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "gian-su:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:gian-su": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "gian-su:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:gian-su": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "gian-su:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:gian-su": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "gian-su:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:gian-su": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:quan-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dich-mon:khuc-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-trach:trung-chu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-tri:khuc-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-cau:khuc-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-trach:thien-tinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-trach:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:thieu-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "khuc-trach:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:khuc-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:khuc-tuyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:khuc-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:khuc-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-trach:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:quan-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "quan-xung:trung-chu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-tri:quan-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-cau:quan-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "quan-xung:thien-tinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "quan-xung:thieu-xung": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "quan-xung:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:quan-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:quan-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:quan-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "quan-xung:thai-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "quan-xung:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:quan-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:quan-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:trung-chu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dich-mon:duong-tri": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-cau:dich-mon": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dich-mon:thien-tinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dich-mon:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:than-mon": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "dich-mon:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:dich-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:hanh-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:hiep-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dich-mon:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-tri:trung-chu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-cau:trung-chu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thien-tinh:trung-chu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hau-khe:trung-chu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:trung-chu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "trung-chu:trung-phong": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "trung-chu:tuc-lam-khap": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuc-cot:trung-chu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:duong-tri": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-tri:thien-tinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-tri:uyen-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:duong-tri": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-tri:xung-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-tri:khau-khu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:duong-tri": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-lang-tuyen:duong-tri": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-tri:kinh-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:thien-tinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-cau:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:duong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:giai-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:duong-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-cau:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:chi-cau": {
+      "score": 0.29,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "chi-cau:con-lon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thien-tinh:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thien-tinh:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:thien-tinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thien-tinh:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:thien-tinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:thien-tinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:thien-tinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thien-tinh:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-phu:thieu-xung": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_kinh"
+      ]
+    },
+    "than-mon:thieu-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "linh-dao:thieu-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-hai:thieu-xung": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_kinh"
+      ]
+    },
+    "thieu-trach:thieu-xung": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-xung:tien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hau-khe:thieu-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-xung:uyen-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-coc:thieu-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-xung:tieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:thieu-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:thieu-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:thieu-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-xung:thieu-xung": {
+      "score": 0.28,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "thieu-xung:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:thieu-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:thieu-xung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "than-mon:thieu-phu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "linh-dao:thieu-phu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-hai:thieu-phu": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_kinh"
+      ]
+    },
+    "thieu-phu:thieu-trach": {
+      "score": 0.45,
+      "reasons": [
+        "same_prefix",
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-phu:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "hau-khe:thieu-phu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-phu:uyen-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-coc:thieu-phu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-phu:tieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "noi-dinh:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:thieu-phu": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "nhien-coc:thieu-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-phu:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "linh-dao:than-mon": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "than-mon:thieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "than-mon:thieu-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "than-mon:tien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hau-khe:than-mon": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "than-mon:uyen-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-coc:than-mon": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "than-mon:tieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-bach:than-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-xung:than-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-khe:than-mon": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "linh-dao:thieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "linh-dao:thieu-trach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "linh-dao:tien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hau-khe:linh-dao": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "linh-dao:uyen-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-coc:linh-dao": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "linh-dao:tieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "linh-dao:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "linh-dao:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "linh-dao:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:linh-dao": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-hai:thieu-trach": {
+      "score": 0.45,
+      "reasons": [
+        "same_prefix",
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-hai:tien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hau-khe:thieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-hai:uyen-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-coc:thieu-hai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thieu-hai:tieu-hai": {
+      "score": 0.61,
+      "reasons": [
+        "similar_name",
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-hai:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:thieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-hai:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-trach:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hau-khe:thieu-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-trach:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-coc:thieu-trach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thieu-trach:tieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "an-bach:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thieu-trach:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:thieu-trach": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hau-khe:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tien-coc:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-coc:tien-coc": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_kinh"
+      ]
+    },
+    "tien-coc:tieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-do:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "noi-dinh:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hanh-gian:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:tien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhien-coc:tien-coc": {
+      "score": 0.46,
+      "reasons": [
+        "similar_name",
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:tien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "thong-coc:tien-coc": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "hau-khe:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-coc:hau-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hau-khe:tieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ham-coc:hau-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:hau-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hau-khe:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hau-khe:tuc-lam-khap": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hau-khe:khau-khu": {
+      "score": 0.3,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "hau-khe:thai-khe": {
+      "score": 0.3,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "hau-khe:thuc-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tieu-hai:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "uyen-cot:xung-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khau-khu:uyen-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thuc-cot:uyen-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "kinh-cot:uyen-cot": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:tieu-hai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-coc:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:ham-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-coc:giai-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:duong-phu": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "duong-coc:duong-lang-tuyen": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-coc:nhien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-coc:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:duong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-coc:thong-coc": {
+      "score": 0.31,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "con-lon:duong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tieu-hai:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:tieu-hai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tieu-hai:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:dai-do": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "an-bach:thai-bach": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_kinh"
+      ]
+    },
+    "an-bach:thuong-khau": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-lang-tuyen:an-bach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "an-bach:le-doai": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:noi-dinh": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:ham-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:xung-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:giai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:tuc-tam-ly": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "an-bach:dai-don": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:dung-tuyen": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "an-bach:chi-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:thai-bach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-do:thuong-khau": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-lang-tuyen:dai-do": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-do:le-doai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:noi-dinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:ham-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:xung-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:giai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:tuc-tam-ly": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-do:dai-don": {
+      "score": 0.34,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "dai-do:hanh-gian": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:hiep-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-do:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-bach:thuong-khau": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-lang-tuyen:thai-bach": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "le-doai:thai-bach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "noi-dinh:thai-bach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "ham-coc:thai-bach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-bach:xung-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "giai-khe:thai-bach": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-bach:tuc-tam-ly": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-bach:thai-xung": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "thai-bach:thai-khe": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:thuong-khau": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "le-doai:thuong-khau": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "noi-dinh:thuong-khau": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "ham-coc:thuong-khau": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thuong-khau:xung-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "giai-khe:thuong-khau": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "thuong-khau:tuc-tam-ly": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thuong-khau:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "phuc-luu:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:thuong-khau": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:le-doai": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:noi-dinh": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:ham-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:xung-duong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:giai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:tuc-tam-ly": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "am-lang-tuyen:khuc-tuyen": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:duong-lang-tuyen": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:dung-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "am-coc:am-lang-tuyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "am-lang-tuyen:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:noi-dinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ham-coc:le-doai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "le-doai:xung-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "giai-khe:le-doai": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "le-doai:tuc-tam-ly": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-don:le-doai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "le-doai:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:le-doai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:le-doai": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:noi-dinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "noi-dinh:xung-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "giai-khe:noi-dinh": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "noi-dinh:tuc-tam-ly": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hanh-gian:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "nhien-coc:noi-dinh": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "noi-dinh:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:xung-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "giai-khe:ham-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ham-coc:tuc-tam-ly": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "ham-coc:tuc-lam-khap": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "ham-coc:nhien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "am-coc:ham-coc": {
+      "score": 0.34,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "ham-coc:thong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "ham-coc:thuc-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:xung-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tuc-tam-ly:xung-duong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khau-khu:xung-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "kinh-cot:xung-duong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:tuc-tam-ly": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "giai-khe:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "duong-phu:giai-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "giai-khe:thai-khe": {
+      "score": 0.3,
+      "reasons": [
+        "similar_name"
+      ]
+    },
+    "giai-khe:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:giai-khe": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tuc-khieu-am:tuc-tam-ly": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "tuc-lam-khap:tuc-tam-ly": {
+      "score": 0.35,
+      "reasons": [
+        "same_prefix"
+      ]
+    },
+    "duong-lang-tuyen:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "am-coc:tuc-tam-ly": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "tuc-tam-ly:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dai-don:hanh-gian": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-don:thai-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-don:trung-phong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-don:khuc-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dai-don:tuc-khieu-am": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:hiep-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:tuc-lam-khap": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:khau-khu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:duong-phu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:duong-lang-tuyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dai-don:dung-tuyen": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:dai-don": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:thai-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hanh-gian:trung-phong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hanh-gian:khuc-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hanh-gian:tuc-khieu-am": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hanh-gian:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "hanh-gian:tuc-lam-khap": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hanh-gian:khau-khu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-phu:hanh-gian": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-lang-tuyen:hanh-gian": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hanh-gian:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hanh-gian:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "thai-xung:trung-phong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khuc-tuyen:thai-xung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thai-xung:tuc-khieu-am": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hiep-khe:thai-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-xung:tuc-lam-khap": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khau-khu:thai-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-phu:thai-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-lang-tuyen:thai-xung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-khe:thai-xung": {
+      "score": 0.5,
+      "reasons": [
+        "same_prefix",
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:trung-phong": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "trung-phong:tuc-khieu-am": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hiep-khe:trung-phong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "trung-phong:tuc-lam-khap": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khau-khu:trung-phong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-phu:trung-phong": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-lang-tuyen:trung-phong": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "phuc-luu:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:trung-phong": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:tuc-khieu-am": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "hiep-khe:khuc-tuyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khuc-tuyen:tuc-lam-khap": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "khau-khu:khuc-tuyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-phu:khuc-tuyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "duong-lang-tuyen:khuc-tuyen": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "dung-tuyen:khuc-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "am-coc:khuc-tuyen": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khuc-tuyen:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:tuc-khieu-am": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "tuc-khieu-am:tuc-lam-khap": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_kinh"
+      ]
+    },
+    "khau-khu:tuc-khieu-am": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-phu:tuc-khieu-am": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-lang-tuyen:tuc-khieu-am": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dung-tuyen:tuc-khieu-am": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "chi-am:tuc-khieu-am": {
+      "score": 0.4,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:tuc-lam-khap": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hiep-khe:khau-khu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-phu:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-lang-tuyen:hiep-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "hiep-khe:nhien-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "hiep-khe:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "hiep-khe:thong-coc": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "khau-khu:tuc-lam-khap": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-phu:tuc-lam-khap": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-lang-tuyen:tuc-lam-khap": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thuc-cot:tuc-lam-khap": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-phu:khau-khu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "duong-lang-tuyen:khau-khu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "khau-khu:kinh-cot": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:duong-phu": {
+      "score": 0.6,
+      "reasons": [
+        "same_prefix",
+        "same_kinh"
+      ]
+    },
+    "duong-phu:phuc-luu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "con-lon:duong-phu": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:duong-lang-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_suffix"
+      ]
+    },
+    "am-coc:duong-lang-tuyen": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "duong-lang-tuyen:uy-trung": {
+      "score": 0.15,
+      "reasons": [
+        "same_nguhanh"
+      ]
+    },
+    "dung-tuyen:nhien-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dung-tuyen:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "dung-tuyen:phuc-luu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-coc:dung-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:dung-tuyen": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "dung-tuyen:thong-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dung-tuyen:thuc-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dung-tuyen:kinh-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "con-lon:dung-tuyen": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "dung-tuyen:uy-trung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "nhien-coc:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "nhien-coc:phuc-luu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-coc:nhien-coc": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_kinh"
+      ]
+    },
+    "chi-am:nhien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "nhien-coc:thong-coc": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "nhien-coc:thuc-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "kinh-cot:nhien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "con-lon:nhien-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "nhien-coc:uy-trung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "phuc-luu:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "am-coc:thai-khe": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:thai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-khe:thong-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-khe:thuc-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "kinh-cot:thai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "con-lon:thai-khe": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "thai-khe:uy-trung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:phuc-luu": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:phuc-luu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "phuc-luu:thong-coc": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "phuc-luu:thuc-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "kinh-cot:phuc-luu": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "con-lon:phuc-luu": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "phuc-luu:uy-trung": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:chi-am": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:thong-coc": {
+      "score": 0.35,
+      "reasons": [
+        "same_suffix",
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:thuc-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:kinh-cot": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:con-lon": {
+      "score": 0.1,
+      "reasons": [
+        "bieu_ly_pair"
+      ]
+    },
+    "am-coc:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_nguhanh",
+        "bieu_ly_pair"
+      ]
+    },
+    "chi-am:thong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:thuc-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:kinh-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:con-lon": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "chi-am:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thong-coc:thuc-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cot:thong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "con-lon:thong-coc": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thong-coc:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cot:thuc-cot": {
+      "score": 0.5,
+      "reasons": [
+        "same_suffix",
+        "same_kinh"
+      ]
+    },
+    "con-lon:thuc-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "thuc-cot:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "con-lon:kinh-cot": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "kinh-cot:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    },
+    "con-lon:uy-trung": {
+      "score": 0.25,
+      "reasons": [
+        "same_kinh"
+      ]
+    }
+  }
+}
