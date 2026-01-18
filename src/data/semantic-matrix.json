@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-18T01:32:25.356Z",
+  "generated": "2026-01-18T03:54:49.497Z",
   "concepts": [
     {
       "id": "thieu-thuong",
@@ -8,7 +8,11 @@
       "kinh": "Phế",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "08a-huyet-kinh-phe.md"
+      "sourceFile": "08a-huyet-kinh-phe.md",
+      "position": {
+        "landmark": "ngón tay cái",
+        "relative": "Cách góc ngón tay cái 0,1 thốn"
+      }
     },
     {
       "id": "ngu-te",
@@ -16,7 +20,11 @@
       "kinh": "Phế",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "08a-huyet-kinh-phe.md"
+      "sourceFile": "08a-huyet-kinh-phe.md",
+      "position": {
+        "landmark": "xương bàn ngón tay cái",
+        "relative": "Điểm giữa xương bàn ngón tay cái, nơi tiếp giáp da gan tay và da mu tay"
+      }
     },
     {
       "id": "thai-uyen",
@@ -24,7 +32,11 @@
       "kinh": "Phế",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "08a-huyet-kinh-phe.md"
+      "sourceFile": "08a-huyet-kinh-phe.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Chỗ lõm trên động mạch quay, trên lằn chỉ cổ tay"
+      }
     },
     {
       "id": "kinh-cu",
@@ -32,7 +44,11 @@
       "kinh": "Phế",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "08a-huyet-kinh-phe.md"
+      "sourceFile": "08a-huyet-kinh-phe.md",
+      "position": {
+        "landmark": "cẳng tay",
+        "relative": "Mặt trong đầu dưới xương quay, nếp gấp cổ tay thẳng lên 1 thốn"
+      }
     },
     {
       "id": "xich-trach",
@@ -40,7 +56,11 @@
       "kinh": "Phế",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "08a-huyet-kinh-phe.md"
+      "sourceFile": "08a-huyet-kinh-phe.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Trung điểm nếp gấp khuỷu tay, bờ ngoài cơ nhị đầu cánh tay"
+      }
     },
     {
       "id": "thuong-duong",
@@ -48,7 +68,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "ngón tay trỏ",
+        "relative": "Cách góc ngoài chân móng ngón tay trỏ 0,1 thốn"
+      }
     },
     {
       "id": "nhi-gian",
@@ -56,7 +80,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "ngón tay trỏ",
+        "relative": "Chỗ lõm phía trước và ngoài xương bàn tay và ngón trỏ, nắm tay để lấy huyệt"
+      }
     },
     {
       "id": "tam-gian",
@@ -64,7 +92,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "ngón tay trỏ",
+        "relative": "Chỗ lõm phía sau và ngoài xương bàn tay và ngón trỏ, nắm tay để lấy huyệt"
+      }
     },
     {
       "id": "hop-coc",
@@ -72,7 +104,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "xương bàn ngón 2",
+        "relative": "Bờ ngoài xương bàn ngón 2, trung điểm đường nối 2 huyệt Tam Gian và Dương Khê"
+      }
     },
     {
       "id": "duong-khe",
@@ -80,7 +116,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Chỗ lõm bờ ngoài lằn sau cổ tay, khi cong ngón cái lên nằm tại hõm lào giải phẫu"
+      }
     },
     {
       "id": "khuc-tri",
@@ -88,7 +128,11 @@
       "kinh": "Đại Trường",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "08b-huyet-kinh-dai-truong.md"
+      "sourceFile": "08b-huyet-kinh-dai-truong.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Co khuỷu tay, huyệt nằm ở trên đầu lằn chỉ nếp gấp khuỷu nơi hõm vào"
+      }
     },
     {
       "id": "trung-xung",
@@ -96,7 +140,11 @@
       "kinh": "Tâm Bào",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+      "sourceFile": "09a-huyet-kinh-tam-bao.md",
+      "position": {
+        "landmark": "ngón giữa",
+        "relative": "Điểm chính giữa đầu ngón giữa"
+      }
     },
     {
       "id": "lao-cung",
@@ -104,7 +152,11 @@
       "kinh": "Tâm Bào",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+      "sourceFile": "09a-huyet-kinh-tam-bao.md",
+      "position": {
+        "landmark": "gan bàn tay",
+        "relative": "Trên gan bàn tay, khi nắm tay lại huyệt nằm giữa đầu móng tay ngón 3 và 4 chỉ vào"
+      }
     },
     {
       "id": "dai-lang",
@@ -112,7 +164,11 @@
       "kinh": "Tâm Bào",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+      "sourceFile": "09a-huyet-kinh-tam-bao.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Ngay giữa nếp gấp cổ tay, giữa gân cơ tay lớn và tay bé"
+      }
     },
     {
       "id": "gian-su",
@@ -120,7 +176,11 @@
       "kinh": "Tâm Bào",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+      "sourceFile": "09a-huyet-kinh-tam-bao.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Nếp gấp cổ tay thẳng lên 3 thốn, giữa khe gân cơ gan tay lớn và bé"
+      }
     },
     {
       "id": "khuc-trach",
@@ -128,7 +188,11 @@
       "kinh": "Tâm Bào",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "09a-huyet-kinh-tam-bao.md"
+      "sourceFile": "09a-huyet-kinh-tam-bao.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Nếp gấp khuỷu tay, phía trong gân cơ nhị đầu cánh tay"
+      }
     },
     {
       "id": "quan-xung",
@@ -136,7 +200,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "ngón đeo nhẫn",
+        "relative": "Bàn tay ngửa, cạnh ngoài gốc móng ngón đeo nhẫn (về phía ngón út) cách 0,1 thốn"
+      }
     },
     {
       "id": "dich-mon",
@@ -144,7 +212,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "ngón đeo nhẫn và ngón út",
+        "relative": "Úp bàn tay, cuối nếp gấp khe ngón đeo nhẫn và ngón út, bên ngoài khớp ngón và bàn tay"
+      }
     },
     {
       "id": "trung-chu",
@@ -152,7 +224,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "khớp ngón và bàn",
+        "relative": "Úp bàn tay, chỗ lõm sau khớp ngón và bàn trong khe xương bàn số 4 và 5"
+      }
     },
     {
       "id": "duong-tri",
@@ -160,7 +236,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Bàn tay úp, hơi gập cổ tay, chỗ lõm cạnh ngoài gân duỗi chung thẳng khe ngón 3-4"
+      }
     },
     {
       "id": "chi-cau",
@@ -168,7 +248,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Bàn tay úp, khuỷu hơi co, từ huyệt Ngoại Quan lên 1 thốn, khe giữa 2 xương"
+      }
     },
     {
       "id": "thien-tinh",
@@ -176,7 +260,11 @@
       "kinh": "Tam Tiêu",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "09b-huyet-kinh-tam-tieu.md"
+      "sourceFile": "09b-huyet-kinh-tam-tieu.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Ngồi ngay, co khuỷu tay, từ lồi mỏm khuỷu tay lên 1 thốn, giữa chỗ lõm"
+      }
     },
     {
       "id": "thieu-xung",
@@ -184,7 +272,11 @@
       "kinh": "Tâm",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "10a-huyet-kinh-tam.md"
+      "sourceFile": "10a-huyet-kinh-tam.md",
+      "position": {
+        "landmark": "ngón út",
+        "relative": "Phía xương mác ngón út, cách góc móng tay 0,1 thốn"
+      }
     },
     {
       "id": "thieu-phu",
@@ -192,7 +284,11 @@
       "kinh": "Tâm",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "10a-huyet-kinh-tam.md"
+      "sourceFile": "10a-huyet-kinh-tam.md",
+      "position": {
+        "landmark": "xương bàn tay",
+        "relative": "Giữa xương bàn tay thứ 4-5, khi nắm tay huyệt ở giữa ngón út và ngón nhẫn hướng vào lòng bàn tay"
+      }
     },
     {
       "id": "than-mon",
@@ -200,7 +296,11 @@
       "kinh": "Tâm",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "10a-huyet-kinh-tam.md"
+      "sourceFile": "10a-huyet-kinh-tam.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Phía xương trụ, trên lằn cổ tay, sau xương nguyệt, sát bờ ngoài gân cơ trụ trước"
+      }
     },
     {
       "id": "linh-dao",
@@ -208,7 +308,11 @@
       "kinh": "Tâm",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "10a-huyet-kinh-tam.md"
+      "sourceFile": "10a-huyet-kinh-tam.md",
+      "position": {
+        "landmark": "cẳng tay",
+        "relative": "Mặt trước trong cẳng tay, cách nếp gấp cổ tay 1,5 thốn"
+      }
     },
     {
       "id": "thieu-hai",
@@ -216,7 +320,11 @@
       "kinh": "Tâm",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "10a-huyet-kinh-tam.md"
+      "sourceFile": "10a-huyet-kinh-tam.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Co tay, huyệt nằm giữa cuối đầu nếp gấp khuỷu tay và mỏm trên lồi cầu"
+      }
     },
     {
       "id": "thieu-trach",
@@ -224,7 +332,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "ngón tay út",
+        "relative": "Góc trong chân móng ngón tay út, cách chân móng 0,1 thốn"
+      }
     },
     {
       "id": "tien-coc",
@@ -232,7 +344,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "ngón tay út",
+        "relative": "Chỗ lõm xương ngón tay thứ 5, nắm tay lại huyệt ở trước lằn chỉ tay ngón út và bàn"
+      }
     },
     {
       "id": "hau-khe",
@@ -240,7 +356,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "bàn tay",
+        "relative": "Hơi nắm tay lại, huyệt nằm ở đầu trong đường vân tim của bàn tay"
+      }
     },
     {
       "id": "uyen-cot",
@@ -248,7 +368,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "bàn tay",
+        "relative": "Phía bờ trong bàn tay, chỗ lõm giữa xương móc và xương bàn tay thứ 5"
+      }
     },
     {
       "id": "duong-coc",
@@ -256,7 +380,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "cổ tay",
+        "relative": "Bờ trong cổ tay, chỗ lõm giữa xương đậu và mỏm trâm xương trụ"
+      }
     },
     {
       "id": "tieu-hai",
@@ -264,7 +392,11 @@
       "kinh": "Tiểu Trường",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "10b-huyet-kinh-tieu-truong.md"
+      "sourceFile": "10b-huyet-kinh-tieu-truong.md",
+      "position": {
+        "landmark": "khuỷu tay",
+        "relative": "Rãnh giữa mỏm khuỷu và mỏm trên lồi cầu trong xương cánh tay"
+      }
     },
     {
       "id": "an-bach",
@@ -272,7 +404,11 @@
       "kinh": "Tỳ",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "11a-huyet-kinh-ty.md"
+      "sourceFile": "11a-huyet-kinh-ty.md",
+      "position": {
+        "landmark": "ngón chân cái",
+        "relative": "Góc trong ngón chân cái, cách móng chân 0,1 thốn"
+      }
     },
     {
       "id": "dai-do",
@@ -280,7 +416,11 @@
       "kinh": "Tỳ",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "11a-huyet-kinh-ty.md"
+      "sourceFile": "11a-huyet-kinh-ty.md",
+      "position": {
+        "landmark": "ngón chân cái",
+        "relative": "Bờ trong xương ngón cái, trên đường tiếp giáp lằn da gan bàn chân dưới chỏm xương bàn chân"
+      }
     },
     {
       "id": "thai-bach",
@@ -288,7 +428,11 @@
       "kinh": "Tỳ",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "11a-huyet-kinh-ty.md"
+      "sourceFile": "11a-huyet-kinh-ty.md",
+      "position": {
+        "landmark": "bàn chân",
+        "relative": "Chỗ lõm bờ trong bàn chân, sau khớp xương bàn ngón chân 1"
+      }
     },
     {
       "id": "thuong-khau",
@@ -296,7 +440,11 @@
       "kinh": "Tỳ",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "11a-huyet-kinh-ty.md"
+      "sourceFile": "11a-huyet-kinh-ty.md",
+      "position": {
+        "landmark": "mắt cá chân trong",
+        "relative": "Chỗ lõm phía trước mắt cá chân trong, giữa gân cơ cẳng chân sau và khớp sên-thuyền"
+      }
     },
     {
       "id": "am-lang-tuyen",
@@ -304,7 +452,11 @@
       "kinh": "Tỳ",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "11a-huyet-kinh-ty.md"
+      "sourceFile": "11a-huyet-kinh-ty.md",
+      "position": {
+        "landmark": "đầu gối",
+        "relative": "Chỗ lõm bờ sau trong đầu trên xương chày, cách nếp gấp đầu gối 2,5 thốn"
+      }
     },
     {
       "id": "le-doai",
@@ -312,7 +464,11 @@
       "kinh": "Vị",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "ngón chân thứ 2",
+        "relative": "Ngoài ngón chân thứ 2, cách góc móng chân 0,1 thốn"
+      }
     },
     {
       "id": "noi-dinh",
@@ -320,7 +476,11 @@
       "kinh": "Vị",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "kẽ ngón chân 2-3",
+        "relative": "Giữa kẽ ngón chân 2-3"
+      }
     },
     {
       "id": "ham-coc",
@@ -328,7 +488,11 @@
       "kinh": "Vị",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "kẽ ngón chân 2-3",
+        "relative": "Giữa kẽ ngón chân 2-3, đo lên 0,5 thốn về phía mu chân"
+      }
     },
     {
       "id": "xung-duong",
@@ -336,7 +500,11 @@
       "kinh": "Vị",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "mu bàn chân",
+        "relative": "Dưới huyệt Giải Khê 1,5 thốn, nơi cao nhất của mu bàn chân chỗ có động mạch đập"
+      }
     },
     {
       "id": "giai-khe",
@@ -344,7 +512,11 @@
       "kinh": "Vị",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "nếp gấp cổ chân",
+        "relative": "Trên nếp gấp cổ chân giữa 2 gân cơ cẳng chân trước và gân cơ duỗi dài ngón cái"
+      }
     },
     {
       "id": "tuc-tam-ly",
@@ -352,7 +524,11 @@
       "kinh": "Vị",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "11b-huyet-kinh-vi.md"
+      "sourceFile": "11b-huyet-kinh-vi.md",
+      "position": {
+        "landmark": "đầu gối",
+        "relative": "Úp bàn tay lên đầu gối, ngón giữa đặt trên xương chày cách 1 khoát ngón tay"
+      }
     },
     {
       "id": "dai-don",
@@ -360,7 +536,11 @@
       "kinh": "Can",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "12a-huyet-kinh-can.md"
+      "sourceFile": "12a-huyet-kinh-can.md",
+      "position": {
+        "landmark": "ngón chân cái",
+        "relative": "Cách bờ ngoài gốc móng chân ngón cái 0,1 thốn"
+      }
     },
     {
       "id": "hanh-gian",
@@ -368,7 +548,11 @@
       "kinh": "Can",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "12a-huyet-kinh-can.md"
+      "sourceFile": "12a-huyet-kinh-can.md",
+      "position": {
+        "landmark": "kẽ ngón chân 1-2",
+        "relative": "Kẽ ngón chân 1-2 đo lên 0,5 thốn về phía mu chân"
+      }
     },
     {
       "id": "thai-xung",
@@ -376,7 +560,11 @@
       "kinh": "Can",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "12a-huyet-kinh-can.md"
+      "sourceFile": "12a-huyet-kinh-can.md",
+      "position": {
+        "landmark": "kẽ ngón chân 1-2",
+        "relative": "Giữa kẽ ngón chân 1-2 đo lên 2 thốn về phía mu chân"
+      }
     },
     {
       "id": "trung-phong",
@@ -384,7 +572,11 @@
       "kinh": "Can",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "12a-huyet-kinh-can.md"
+      "sourceFile": "12a-huyet-kinh-can.md",
+      "position": {
+        "landmark": "mắt cá trong",
+        "relative": "Bờ dưới mắt cá trong khoảng 1 thốn, điểm lõm giữa cơ dài ngón cái và cơ chày trước"
+      }
     },
     {
       "id": "khuc-tuyen",
@@ -392,7 +584,11 @@
       "kinh": "Can",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "12a-huyet-kinh-can.md"
+      "sourceFile": "12a-huyet-kinh-can.md",
+      "position": {
+        "landmark": "nếp gấp đầu gối",
+        "relative": "Khi gấp chân lại, huyệt nằm trên phía trong xương đùi đầu nếp gấp đầu gối"
+      }
     },
     {
       "id": "tuc-khieu-am",
@@ -400,7 +596,11 @@
       "kinh": "Đởm",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "ngón chân thứ 4",
+        "relative": "Bên ngoài ngón chân thứ 4, cách góc móng chân 0,1 thốn, trên đường tiếp giáp da gan-mu chân"
+      }
     },
     {
       "id": "hiep-khe",
@@ -408,7 +608,11 @@
       "kinh": "Đởm",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "kẽ ngón chân 4-5",
+        "relative": "Khe giữa xương bàn chân ngón 4-5, đầu kẽ giữa 2 ngón chân phía trên mu chân"
+      }
     },
     {
       "id": "tuc-lam-khap",
@@ -416,7 +620,11 @@
       "kinh": "Đởm",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "khớp xương bàn ngón chân 4-5",
+        "relative": "Chỗ lõm phía trước khớp xương bàn ngón chân thứ 4-5"
+      }
     },
     {
       "id": "khau-khu",
@@ -424,7 +632,11 @@
       "kinh": "Đởm",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "mắt cá ngoài",
+        "relative": "Phía trước và dưới mắt cá ngoài, chỗ lõm giữa huyệt Thân Mạch và Giải Khê"
+      }
     },
     {
       "id": "duong-phu",
@@ -432,7 +644,11 @@
       "kinh": "Đởm",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "mắt cá ngoài",
+        "relative": "Trên đỉnh mắt cá ngoài 4 thốn, ở bờ dưới xương mác"
+      }
     },
     {
       "id": "duong-lang-tuyen",
@@ -440,7 +656,11 @@
       "kinh": "Đởm",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "12b-huyet-kinh-dom.md"
+      "sourceFile": "12b-huyet-kinh-dom.md",
+      "position": {
+        "landmark": "xương mác",
+        "relative": "Chỗ lõm phía trước và dưới đầu nhỏ xương mác, khe giữa cơ mác bên dài và cơ duỗi chung"
+      }
     },
     {
       "id": "dung-tuyen",
@@ -448,7 +668,11 @@
       "kinh": "Thận",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "13a-huyet-kinh-than.md"
+      "sourceFile": "13a-huyet-kinh-than.md",
+      "position": {
+        "landmark": "lòng bàn chân",
+        "relative": "Dưới lòng bàn chân, điểm lõm khi co bàn chân, chỗ giữa ngón 2 và 3"
+      }
     },
     {
       "id": "nhien-coc",
@@ -456,7 +680,11 @@
       "kinh": "Thận",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "13a-huyet-kinh-than.md"
+      "sourceFile": "13a-huyet-kinh-than.md",
+      "position": {
+        "landmark": "bàn chân",
+        "relative": "Chỗ lõm sát bờ dưới xương trên đường nối da gan chân và mu chân"
+      }
     },
     {
       "id": "thai-khe",
@@ -464,7 +692,11 @@
       "kinh": "Thận",
       "nguHanh": "Du + Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "13a-huyet-kinh-than.md"
+      "sourceFile": "13a-huyet-kinh-than.md",
+      "position": {
+        "landmark": "mắt cá trong",
+        "relative": "Trung điểm đường nối bờ sau mắt cá trong và mép trong gân gót"
+      }
     },
     {
       "id": "phuc-luu",
@@ -472,7 +704,11 @@
       "kinh": "Thận",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "13a-huyet-kinh-than.md"
+      "sourceFile": "13a-huyet-kinh-than.md",
+      "position": {
+        "landmark": "gân gót",
+        "relative": "Từ huyệt Thái Khê đo thẳng lên 2 thốn, chỗ lõm trước gân gót"
+      }
     },
     {
       "id": "am-coc",
@@ -480,7 +716,11 @@
       "kinh": "Thận",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "13a-huyet-kinh-than.md"
+      "sourceFile": "13a-huyet-kinh-than.md",
+      "position": {
+        "landmark": "nếp gấp gối sau",
+        "relative": "Từ bờ sau nếp gấp gối, giữa gân cơ bán gân và gân cơ bán mạc"
+      }
     },
     {
       "id": "chi-am",
@@ -488,7 +728,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Tĩnh",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "ngón út chân",
+        "relative": "Cạnh ngoài gốc móng ngón út chân, cách gốc móng 0,1 thốn"
+      }
     },
     {
       "id": "thong-coc",
@@ -496,7 +740,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Vinh",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "khớp bàn và ngón út chân",
+        "relative": "Chỗ lõm phía trước khớp bàn và ngón út"
+      }
     },
     {
       "id": "thuc-cot",
@@ -504,7 +752,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Du",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "xương bàn chân",
+        "relative": "Chỗ lõm cạnh ngoài, sau đầu nhỏ xương bàn chân nối với ngón 5"
+      }
     },
     {
       "id": "kinh-cot",
@@ -512,7 +764,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Nguyên",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "bàn chân",
+        "relative": "Cạnh ngoài bàn chân, phía dưới đầu mẩu xương to (đầu trong xương bàn ngón út)"
+      }
     },
     {
       "id": "con-lon",
@@ -520,7 +776,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Kinh",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "mắt cá ngoài",
+        "relative": "Phía sau mắt cá ngoài 0,5 thốn, giữa mắt cá và gân gót, đối chiếu với Thái Khê"
+      }
     },
     {
       "id": "uy-trung",
@@ -528,7 +788,11 @@
       "kinh": "Bàng Quang",
       "nguHanh": "Hợp",
       "nguDuHuyet": "",
-      "sourceFile": "13b-huyet-kinh-bang-quang.md"
+      "sourceFile": "13b-huyet-kinh-bang-quang.md",
+      "position": {
+        "landmark": "khoeo chân",
+        "relative": "Giữa nếp gấp sau khoeo chân"
+      }
     }
   ],
   "matrix": {

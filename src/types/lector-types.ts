@@ -8,6 +8,20 @@
 import { SM2CardState } from "./sm2-types";
 
 /**
+ * Huyệt position description for memorization
+ */
+export interface HuyetPosition {
+  /** Body landmark (e.g., "ngón tay cái", "khuỷu tay") */
+  landmark: string;
+  /** Relative position description in Vietnamese */
+  relative: string;
+  /** Needle depth if applicable */
+  depth?: string;
+  /** Nearby huyệt names for context */
+  nearby?: string[];
+}
+
+/**
  * Huyệt concept extracted from cards
  */
 export interface HuyetConcept {
@@ -17,6 +31,8 @@ export interface HuyetConcept {
   nguHanh: string;
   nguDuHuyet: string;
   sourceFile: string;
+  /** Position description for locating on real body */
+  position?: HuyetPosition;
 }
 
 /**
