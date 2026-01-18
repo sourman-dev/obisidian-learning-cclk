@@ -3,9 +3,23 @@
  */
 
 import { SM2CardState } from "./sm2-types";
+import { ConfusionReason } from "./lector-types";
 
 /** Card display type */
-export type CardType = "forward" | "reverse" | "matching";
+export type CardType = "forward" | "reverse" | "matching" | "mcq" | "visual";
+
+/** MCQ option for multiple choice cards */
+export interface MCQOption {
+  text: string;
+  isCorrect: boolean;
+}
+
+/** Confusable pair reference in frontmatter */
+export interface ConfusablePairRef {
+  id: string;
+  score: number;
+  reason: ConfusionReason;
+}
 
 /** Base card structure */
 export interface Card {
@@ -23,6 +37,12 @@ export interface Card {
   answer?: string;
   /** Matching pairs (for matching type) */
   pairs?: MatchingPair[];
+  /** MCQ options (for mcq type) */
+  options?: MCQOption[];
+  /** Correct answer explanation (for mcq type) */
+  explanation?: string;
+  /** Image path (for visual type) */
+  imagePath?: string;
   /** Source file path */
   sourceFile: string;
   /** Tags from frontmatter */
@@ -54,4 +74,24 @@ export interface CardFrontmatter {
   topic: string;
   chapter?: number;
   tags?: string[];
+}
+
+/** Enhanced frontmatter with LECTOR metadata */
+export interface EnhancedFrontmatter extends CardFrontmatter {
+  /** Unique concept ID */
+  id?: string;
+  /** Concept name in Vietnamese */
+  concept?: string;
+  /** Category (e.g., huyet-kinh-tam) */
+  category?: string;
+  /** Kinh (meridian) name */
+  kinh?: string;
+  /** Ngũ Hành (element) */
+  nguHanh?: string;
+  /** Ngũ Du Huyệt type */
+  nguDuHuyet?: string;
+  /** Top confusable concepts */
+  confusableWith?: ConfusablePairRef[];
+  /** Image path for visual cards */
+  image?: string;
 }

@@ -3,6 +3,26 @@ topic: Huyệt Kinh Tam Tiêu
 chapter: 9
 tags: [huyet-vi, kinh-tam-tieu, thu-thieu-duong]
 priority: 2
+conceptId: quan-xung
+confusableWith: 
+id: dich-mon
+score: 0.25
+reason: same_kinh
+lector:
+  conceptId: trung-xung
+  confusableWith:
+    -
+      id: quan-xung
+      score: 0.5
+      reason: same_suffix
+    -
+      id: trung-chu
+      score: 0.45
+      reason: same_prefix
+    -
+      id: thieu-xung
+      score: 0.4
+      reason: same_suffix
 ---
 
 # Huyệt Kinh Thủ Thiếu Dương Tam Tiêu
@@ -79,3 +99,19 @@ MATCH::
 - Dương Trì | Thủy
 - Chi Cấu | Thử
 - Thiên Tĩnh | Mộc
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tam Tiêu?
+- [x] Trung Xung
+- [ ] Dịch Môn
+- [ ] Trung Chữ
+- [ ] Quan Xung
+EXPLAIN:: Trung Xung thuộc kinh Tâm Bào, không phải kinh Tam Tiêu. Dễ nhầm vì có cùng chữ cuối.
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tâm Bào?
+- [ ] Lao Cung
+- [x] Quan Xung
+- [ ] Đại Lăng
+- [ ] Trung Xung
+EXPLAIN:: Quan Xung thuộc kinh Tam Tiêu, không phải kinh Tâm Bào. Dễ nhầm vì có cùng chữ cuối.

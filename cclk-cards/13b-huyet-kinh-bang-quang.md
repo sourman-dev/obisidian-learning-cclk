@@ -3,6 +3,26 @@ topic: Huyệt Kinh Bàng Quang
 chapter: 13
 tags: [huyet-vi, kinh-bang-quang, tuc-thai-duong]
 priority: 2
+conceptId: chi-am
+confusableWith: 
+id: dung-tuyen
+score: 0.25
+reason: same_nguhanh
+lector:
+  conceptId: tuc-khieu-am
+  confusableWith:
+    -
+      id: tuc-lam-khap
+      score: 0.6
+      reason: same_prefix
+    -
+      id: chi-am
+      score: 0.4
+      reason: same_suffix
+    -
+      id: tuc-tam-ly
+      score: 0.35
+      reason: same_prefix
 ---
 
 # Huyệt Kinh Túc Thái Dương Bàng Quang
@@ -79,3 +99,11 @@ MATCH::
 - Kinh Cốt | Hỏa
 - Côn Lôn | Thổ
 - Ủy Trung | Kim
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Bàng Quang?
+- [ ] Thông Cốc
+- [ ] Chí Âm
+- [ ] Thúc Cốt
+- [x] Túc Khiếu Âm
+EXPLAIN:: Túc Khiếu Âm thuộc kinh Đởm, không phải kinh Bàng Quang. Dễ nhầm vì có cùng chữ cuối.

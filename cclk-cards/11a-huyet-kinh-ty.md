@@ -3,6 +3,26 @@ topic: Huyệt Kinh Tỳ
 chapter: 11
 tags: [huyet-vi, kinh-ty, tuc-thai-am]
 priority: 2
+conceptId: an-bach
+confusableWith: 
+id: thuong-khau
+score: 0.25
+reason: same_kinh
+lector:
+  conceptId: an-bach
+  confusableWith:
+    -
+      id: thai-bach
+      score: 0.5
+      reason: same_suffix
+    -
+      id: dai-do
+      score: 0.25
+      reason: same_kinh
+    -
+      id: thuong-khau
+      score: 0.25
+      reason: same_kinh
 ---
 
 # Huyệt Kinh Túc Thái Âm Tỳ

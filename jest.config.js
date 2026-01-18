@@ -19,6 +19,7 @@ module.exports = {
     }
   },
   moduleNameMapper: {
-    "^@/(.*)$": "<rootDir>/src/$1"
+    "^@/(.*)$": "<rootDir>/src/$1",
+    "^obsidian$": "<rootDir>/src/__mocks__/obsidian.ts"
   }
 };

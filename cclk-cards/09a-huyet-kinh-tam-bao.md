@@ -3,6 +3,26 @@ topic: Huyệt Kinh Tâm Bào
 chapter: 9
 tags: [huyet-vi, kinh-tam-bao, thu-quyet-am]
 priority: 2
+conceptId: trung-xung
+confusableWith: 
+id: thieu-xung
+score: 0.4
+reason: same_suffix
+lector:
+  conceptId: trung-xung
+  confusableWith:
+    -
+      id: quan-xung
+      score: 0.5
+      reason: same_suffix
+    -
+      id: trung-chu
+      score: 0.45
+      reason: same_prefix
+    -
+      id: thieu-xung
+      score: 0.4
+      reason: same_suffix
 ---
 
 # Huyệt Kinh Thủ Quyết Âm Tâm Bào
@@ -69,3 +89,19 @@ MATCH::
 - Đại Lăng | Thủy
 - Giản Sử | Thử
 - Khúc Trạch | Mộc
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tâm Bào?
+- [ ] Đại Lăng
+- [ ] Lao Cung
+- [x] Quan Xung
+- [ ] Trung Xung
+EXPLAIN:: Quan Xung thuộc kinh Tam Tiêu, không phải kinh Tâm Bào. Dễ nhầm vì có cùng chữ cuối.
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tâm Bào?
+- [ ] Lao Cung
+- [ ] Trung Xung
+- [ ] Đại Lăng
+- [x] Quan Xung
+EXPLAIN:: Quan Xung thuộc kinh Tam Tiêu, không phải kinh Tâm Bào. Dễ nhầm vì có cùng chữ cuối.

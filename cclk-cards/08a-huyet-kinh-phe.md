@@ -3,6 +3,26 @@ topic: Huyệt Kinh Phế
 chapter: 8
 tags: [huyet-vi, kinh-phe, thu-thai-am]
 priority: 2
+conceptId: thieu-thuong
+confusableWith: 
+id: thieu-phu
+score: 0.35
+reason: same_prefix
+lector:
+  conceptId: thieu-thuong
+  confusableWith:
+    -
+      id: thieu-trach
+      score: 0.5
+      reason: same_prefix
+    -
+      id: thieu-xung
+      score: 0.45
+      reason: similar_name
+    -
+      id: thieu-phu
+      score: 0.35
+      reason: same_prefix
 ---
 
 # Huyệt Kinh Thủ Thái Âm Phế
@@ -69,3 +89,19 @@ MATCH::
 - Thái Uyên | Thử
 - Kinh Cừ | Hỏa
 - Xích Trạch | Thổ
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Phế?
+- [ ] Ngư Tế
+- [ ] Thiếu Thương
+- [x] Thiếu Trạch
+- [ ] Thái Uyên
+EXPLAIN:: Thiếu Trạch thuộc kinh Tiểu Trường, không phải kinh Phế. Dễ nhầm vì có cùng chữ đầu.
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Phế?
+- [ ] Thiếu Thương
+- [ ] Ngư Tế
+- [ ] Thái Uyên
+- [x] Thiếu Trạch
+EXPLAIN:: Thiếu Trạch thuộc kinh Tiểu Trường, không phải kinh Phế. Dễ nhầm vì có cùng chữ đầu.

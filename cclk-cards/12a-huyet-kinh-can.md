@@ -3,6 +3,26 @@ topic: Huyệt Kinh Can
 chapter: 12
 tags: [huyet-vi, kinh-can, tuc-quyet-am]
 priority: 2
+conceptId: dai-do
+confusableWith: 
+id: an-bach
+score: 0.25
+reason: same_kinh
+lector:
+  conceptId: dai-lang
+  confusableWith:
+    -
+      id: dai-do
+      score: 0.35
+      reason: same_prefix
+    -
+      id: dai-don
+      score: 0.35
+      reason: same_prefix
+    -
+      id: trung-xung
+      score: 0.25
+      reason: same_kinh
 ---
 
 # Huyệt Kinh Túc Quyết Âm Can
@@ -69,3 +89,19 @@ MATCH::
 - Thái Xung | Kim
 - Trung Phong | Thủy
 - Khúc Tuyền | Thử
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tỳ?
+- [ ] Đại Đô
+- [x] Đại Lăng
+- [ ] Thái Bạch
+- [ ] Ẩn Bạch
+EXPLAIN:: Đại Lăng thuộc kinh Tâm Bào, không phải kinh Tỳ. Dễ nhầm vì có cùng chữ đầu.
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tâm Bào?
+- [ ] Đại Lăng
+- [x] Đại Đô
+- [ ] Trung Xung
+- [ ] Lao Cung
+EXPLAIN:: Đại Đô thuộc kinh Tỳ, không phải kinh Tâm Bào. Dễ nhầm vì có cùng chữ đầu.

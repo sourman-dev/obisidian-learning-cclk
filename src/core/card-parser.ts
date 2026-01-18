@@ -2,11 +2,12 @@
  * Card Parser
  *
  * Parses Markdown files into Card objects.
- * Supports three formats: forward (Q::A::), reverse (Q:::A:::), matching (MATCH::)
+ * Supports formats: forward (Q::A::), reverse (Q:::A:::), matching (MATCH::),
+ * MCQ (MCQ::), and visual (IMG::)
  */
 
 import { TFile, parseYaml } from "obsidian";
-import { Card, CardType, MatchingPair, CardFrontmatter } from "../types/card-types";
+import { Card, CardType, MatchingPair, CardFrontmatter, MCQOption } from "../types/card-types";
 
 /** Regex patterns for card parsing */
 const FORWARD_PATTERN = /^Q::\s*(.+)$/m;
@@ -15,6 +16,15 @@ const REVERSE_Q_PATTERN = /^Q:::\s*(.+)$/m;
 const REVERSE_A_PATTERN = /^A:::\s*(.+)$/m;
 const MATCHING_PATTERN = /^MATCH::$/m;
 const MATCHING_ITEM_PATTERN = /^-\s*(.+?)\s*\|\s*(.+)$/gm;
+
+// MCQ patterns
+const MCQ_PATTERN = /^MCQ::\s*(.+)$/m;
+const MCQ_OPTION_PATTERN = /^-\s*\[(x| )\]\s*(.+)$/gm;
+const CORRECT_PATTERN = /^CORRECT::\s*(.+)$/m;
+const EXPLAIN_PATTERN = /^EXPLAIN::\s*(.+)$/m;
+
+// Visual patterns
+const IMG_PATTERN = /^IMG::\s*(.+)$/m;
 
 /**
  * Extract frontmatter from markdown content
@@ -47,7 +57,50 @@ export function parseCardBlock(
   const cards: Card[] = [];
   const baseId = `${frontmatter.topic.toLowerCase().replace(/\s+/g, "-")}::${cardIndex}`;
 
-  // Check for matching cards first
+  // Check for MCQ cards first
+  const mcqQuestion = block.match(MCQ_PATTERN);
+  if (mcqQuestion) {
+    const options = parseMCQOptions(block);
+    const explanation = block.match(EXPLAIN_PATTERN)?.[1]?.trim();
+
+    if (options.length >= 2) {
+      cards.push({
+        id: `${baseId}-mcq`,
+        topic: frontmatter.topic,
+        chapter: frontmatter.chapter || 0,
+        type: "mcq",
+        question: mcqQuestion[1].trim(),
+        options,
+        explanation,
+        sourceFile,
+        tags: frontmatter.tags || []
+      });
+    }
+    return cards;
+  }
+
+  // Check for visual cards (IMG::)
+  const imgMatch = block.match(IMG_PATTERN);
+  if (imgMatch) {
+    const imagePath = imgMatch[1].trim();
+    const forwardQ = block.match(FORWARD_PATTERN);
+    const forwardA = block.match(ANSWER_PATTERN);
+
+    cards.push({
+      id: `${baseId}-visual`,
+      topic: frontmatter.topic,
+      chapter: frontmatter.chapter || 0,
+      type: "visual",
+      question: forwardQ?.[1]?.trim() || "Identify this huyệt",
+      answer: forwardA?.[1]?.trim(),
+      imagePath,
+      sourceFile,
+      tags: frontmatter.tags || []
+    });
+    return cards;
+  }
+
+  // Check for matching cards
   if (MATCHING_PATTERN.test(block)) {
     const pairs = parseMatchingPairs(block);
     if (pairs.length >= 2) {
@@ -112,6 +165,26 @@ export function parseCardBlock(
   }
 
   return cards;
+}
+
+/**
+ * Parse MCQ options from block
+ */
+export function parseMCQOptions(block: string): MCQOption[] {
+  const options: MCQOption[] = [];
+  let match;
+
+  // Reset regex lastIndex
+  MCQ_OPTION_PATTERN.lastIndex = 0;
+
+  while ((match = MCQ_OPTION_PATTERN.exec(block)) !== null) {
+    options.push({
+      text: match[2].trim(),
+      isCorrect: match[1] === "x"
+    });
+  }
+
+  return options;
 }
 
 /**

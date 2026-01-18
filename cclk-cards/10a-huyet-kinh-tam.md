@@ -3,6 +3,26 @@ topic: Huyệt Kinh Tâm
 chapter: 10
 tags: [huyet-vi, kinh-tam, thu-thieu-am]
 priority: 2
+conceptId: thieu-xung
+confusableWith: 
+id: thieu-trach
+score: 0.6
+reason: same_prefix
+lector:
+  conceptId: thieu-xung
+  confusableWith:
+    -
+      id: thieu-phu
+      score: 0.6
+      reason: same_prefix
+    -
+      id: thieu-hai
+      score: 0.6
+      reason: same_prefix
+    -
+      id: thieu-trach
+      score: 0.6
+      reason: same_prefix
 ---
 
 # Huyệt Kinh Thủ Thiếu Âm Tâm

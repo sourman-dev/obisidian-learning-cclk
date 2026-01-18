@@ -3,6 +3,26 @@ topic: Huyệt Kinh Vị
 chapter: 11
 tags: [huyet-vi, kinh-vi, tuc-duong-minh]
 priority: 2
+conceptId: le-doai
+confusableWith: 
+id: ham-coc
+score: 0.25
+reason: same_kinh
+lector:
+  conceptId: an-bach
+  confusableWith:
+    -
+      id: thai-bach
+      score: 0.5
+      reason: same_suffix
+    -
+      id: dai-do
+      score: 0.25
+      reason: same_kinh
+    -
+      id: thuong-khau
+      score: 0.25
+      reason: same_kinh
 ---
 
 # Huyệt Kinh Túc Dương Minh Vị
@@ -79,3 +99,11 @@ MATCH::
 - Xung Dương | Thử
 - Giải Khê | Mộc
 - Túc Tam Lý | Hỏa
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Vị?
+- [ ] Hãm Cốc
+- [ ] Lệ Đoài
+- [ ] Nội Đình
+- [x] Ẩn Bạch
+EXPLAIN:: Ẩn Bạch thuộc kinh Tỳ, không phải kinh Vị. Dễ nhầm vì cùng ngũ hành.

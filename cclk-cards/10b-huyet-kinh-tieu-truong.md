@@ -3,6 +3,26 @@ topic: Huyệt Kinh Tiểu Trường
 chapter: 10
 tags: [huyet-vi, kinh-tieu-truong, thu-thai-duong]
 priority: 2
+conceptId: thieu-trach
+confusableWith: 
+id: thieu-phu
+score: 0.45
+reason: same_prefix
+lector:
+  conceptId: thieu-xung
+  confusableWith:
+    -
+      id: thieu-phu
+      score: 0.6
+      reason: same_prefix
+    -
+      id: thieu-hai
+      score: 0.6
+      reason: same_prefix
+    -
+      id: thieu-trach
+      score: 0.6
+      reason: same_prefix
 ---
 
 # Huyệt Kinh Thủ Thái Dương Tiểu Trường
@@ -79,3 +99,11 @@ MATCH::
 - Uyển Cốt | Thổ
 - Dương Cốc | Kim
 - Tiểu Hải | Thủy
+
+## MCQ 1
+MCQ:: Huyệt nào KHÔNG thuộc kinh Tiểu Trường?
+- [ ] Hậu Khê
+- [ ] Thiếu Trạch
+- [ ] Tiền Cốc
+- [x] Thiếu Xung
+EXPLAIN:: Thiếu Xung thuộc kinh Tâm, không phải kinh Tiểu Trường. Dễ nhầm vì có cùng chữ đầu.
